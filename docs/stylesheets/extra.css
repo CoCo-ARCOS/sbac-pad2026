@@ -121,3 +121,42 @@
 .nt-timeline-title {
     font-size: 20px;
 }
+
+
+/* Layout container */
+.landing-grid {
+  display: grid;
+  grid-template-columns: 3fr 1fr 2fr; /* ≈ 60% | 10% | 30% */
+  gap: 1.5rem;
+  align-items: start;
+}
+
+/* Optional: keep the aside visible while scrolling on large screens */
+@media (min-width: 1100px) {
+  .landing-aside {
+    position: sticky;
+    top: calc(var(--md-header-height, 64px) + 1rem);
+  }
+}
+
+/* Medium screens: two columns (main | aside) */
+@media (max-width: 1099.98px) and (min-width: 700px) {
+  .landing-grid {
+    grid-template-columns: 2fr 1fr; /* spacer drops */
+    grid-auto-flow: row;
+  }
+  .landing-spacer { display: none; }
+}
+
+/* Small screens: single column stack */
+@media (max-width: 699.98px) {
+  .landing-grid {
+    grid-template-columns: 1fr;
+  }
+  .landing-spacer { display: none; }
+  .landing-aside { order: 2; } /* put dates after the text; remove if you want it first */
+}
+
+/* Minor polish */
+.landing-main p { margin: 0 0 0.9rem; }
+.landing-aside h4 { margin-top: 0; }

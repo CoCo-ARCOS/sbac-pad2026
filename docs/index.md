@@ -10,7 +10,7 @@ hide:
 
 <h2> October 14-16, 2026 </h2>
 
-/// html | div[style='float: left; width: 60%;']
+/// html | div[style='flex: 3 1 60%; padding: 0 10px; min-width: 300px; float: left;width: 60%;']
 The International Symposium on Computer Architecture and High Performance Computing (SBAC-PAD) is an annual international conference series, the first of which was held in 1987. Each conference has traditionally presented new developments in high performance applications, as well as the latest trends in computer architecture and parallel and distributed technologies. The conference has strong international participation, with submissions typically coming from over a dozen countries. The selection process is competitive, with acceptance rate below 30% in recent years. In this edition, the symposium will be held at Madrid, Spain by the University Carlos III of Madrid.
 
 Madrid is the capital of Spain, and is home to the Spanish Royal family as well as the Spanish Government. It is a modern metropolitan city and an economical and industrial center of Spain, and, with its population of nearly 3,5 million people, is also the biggest city in Spain.
@@ -22,11 +22,8 @@ The city is full of great monuments, like the royal palace, the Plaza Mayor or t
 
 ///
 
-/// html | div[style='float: left;width: 10%;']
 
-///
-
-/// html | div[style='float: right;width: 30%;']
+/// html | div[style='flex: 1 1 30%; padding: 0 10px; min-width: 250px; float: left;width: 30%;']
 #### Important dates
 ::timeline::
 [

@@ -52,6 +52,10 @@ markdown_extensions:
       emoji_index: !!python/name:material.extensions.emoji.twemoji
       emoji_generator: !!python/name:material.extensions.emoji.to_svg
   - pymdownx.blocks.html
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - attr_list
 
 extra_css:
   - stylesheets/neoteroi-mkdocs.css
