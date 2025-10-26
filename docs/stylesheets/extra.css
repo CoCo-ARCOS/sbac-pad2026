@@ -8,10 +8,10 @@
   
     /* Background image scales & centers */
     background-image:
-      linear-gradient(rgba(255,255,255,0.6), rgba(255,255,255,0.6)),
+      linear-gradient(rgba(255,255,255,0.1), rgba(255,255,255,0.1)),
       url('../assets/imgs/banner.jpg');
     background-size: cover;
-    background-position: 50% 50%;
+    background-position: 10% 30%;
     background-repeat: no-repeat;
     background-blend-mode: lighten; /* keeps your light overlay */
   
@@ -19,7 +19,7 @@
     display: grid;
     place-items: center; /* center content both axes */
     text-align: center;
-    color: #215F9A;
+    color: #FFF;
     padding: 3rem 1rem; /* breathing room on small screens */
   }
   

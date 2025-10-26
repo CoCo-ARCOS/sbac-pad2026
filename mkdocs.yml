@@ -40,6 +40,7 @@ nav:
   - Conference:
       - Keynotes: conference/keynotes.md
       - Venue: conference/venue.md
+      - Travel information: conference/travel-information.md
       - Registration: conference/registration.md
       - Sponsors: conference/sponsors.md
       - Program: conference/program.md
