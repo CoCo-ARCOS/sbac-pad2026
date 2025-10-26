@@ -1,0 +1,123 @@
+/* ---- Banner container ---- */
+.banner {
+    /* Responsive height instead of fixed 500px */
+    min-height: clamp(220px, 40vh, 560px);
+    width: 100%;
+    z-index: 1;
+    position: relative;
+  
+    /* Background image scales & centers */
+    background-image:
+      linear-gradient(rgba(255,255,255,0.6), rgba(255,255,255,0.6)),
+      url('../assets/imgs/banner.jpg');
+    background-size: cover;
+    background-position: 50% 50%;
+    background-repeat: no-repeat;
+    background-blend-mode: lighten; /* keeps your light overlay */
+  
+    /* Layout */
+    display: grid;
+    place-items: center; /* center content both axes */
+    text-align: center;
+    color: #215F9A;
+    padding: 3rem 1rem; /* breathing room on small screens */
+  }
+  
+  /* Optional: inner wrapper to limit line length on wide screens */
+  .banner__content {
+    max-width: 72rem; /* ~1152px */
+    margin-inline: auto;
+  }
+  
+  /* ---- Typography: use clamp() for fluid type ---- */
+  .banner h1 {
+    font-size: clamp(.75rem, 6vw, 2.5rem); /* scales with viewport */
+    line-height: 1.05;
+    margin: 0.25em 0;
+    font-weight: 800;
+    text-shadow: 1px 1px 2px gray;
+  }
+  
+  .banner p {
+    font-size: clamp(0.5rem, 3.2vw, 1.2rem);
+    line-height: 1.3;
+    margin: 0.25em 0 0;
+    font-weight: 600; /* was font-style: bold */
+    text-shadow: 1px 1px 2px gray;
+  }
+  
+  /* ---- Helpful tweaks at small widths ---- */
+  @media (max-width: 768px) {
+    .banner {
+      padding: 2rem 1rem;
+      background-position: 50% 40%; /* keep faces/subject higher if needed */
+    }
+    .banner h1,
+    .banner p {
+      text-shadow: 0 1px 1px rgba(128,128,128,0.7); /* soften on small screens */
+    }
+  }
+  
+  /* ---- Extremely small phones ---- */
+  @media (max-width: 380px) {
+    .banner {
+      min-height: 200px;
+      padding: 1.25rem 0.75rem;
+    }
+  }
+  
+  /* (Optional) if you actually want sticky behavior: */
+  /*
+  .banner {
+    position: sticky;
+    top: 0;
+  }
+  */
+  
+
+.md-header {
+    top: 0px;          /* This setting prevents the Material header from imposing into the space of the banner! */
+}
+
+/* Bold all main navigation items */
+.md-tabs__link {
+    font-weight: bold;
+    font-size: 16px;
+}
+
+/* Optional: To bold only the top-level items */
+.md-tabs__item > .md-tabs__link {
+    font-weight: bold;
+}
+
+/* Optional: To bold the current active item */
+.md-tabs__link--active {
+    font-weight: bold;
+}
+
+.md-header__title {
+  display: none !important;
+}
+
+/* .md-header__button.md-logo {
+  margin-top: 0;
+  margin-bottom: 0;
+  padding-top: 0;
+  padding-bottom: 0;
+} */
+
+.md-header__button.md-logo img,
+.md-header__button.md-logo svg {
+  display: block;
+  width: 30%;
+  height: auto;
+}
+
+.md-tabs .md-grid {
+  display: flex;
+  justify-content: flex-end;
+}
+
+.nt-timeline-title {
+    font-size: 20px;
+}

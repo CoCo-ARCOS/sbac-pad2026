@@ -1,0 +1,59 @@
+site_name: SBAC-PAD 2026
+
+theme:
+  name: material
+  palette:
+    primary: blue
+    accent: black
+  logo: assets/logo.png
+  features:
+    - navigation.path
+    - navigation.sections
+    - navigation.tabs
+    - navigation.top
+    - navigation.tracking
+    - navigation.tabs.sticky
+    - toc.follow
+    - toc.integrate 
+
+  custom_dir: overrides
+
+plugins:
+  - search:
+      enabled: false
+
+watch:
+  - mkdocs.yml
+  - docs/
+  - overrides/
+
+nav:
+  - Home: index.md
+  - News: news.md
+  - Submissions:
+      - Call for Papers: submissions/call-for-papers.md
+      - Call for Workshops Proposals: submissions/call-for-workshops-proposals.md
+      - Important Dates: submissions/important-dates.md
+  - Committes:
+      - Organizing Committee: committees/organizing-committee.md
+      - Program Committee: committees/program-committee.md
+  - Conference:
+      - Keynotes: conference/keynotes.md
+      - Venue: conference/venue.md
+      - Registration: conference/registration.md
+      - Sponsors: conference/sponsors.md
+      - Program: conference/program.md
+
+markdown_extensions:
+  - neoteroi.timeline
+  - neoteroi.cards
+  - attr_list
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - pymdownx.blocks.html
+
+extra_css:
+  - stylesheets/neoteroi-mkdocs.css
+  - stylesheets/extra.css
+  
