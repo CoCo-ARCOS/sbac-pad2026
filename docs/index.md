@@ -4,7 +4,7 @@ hide:
   - toc
 ---
 
-# SBAC-PAD 2025
+# SBAC-PAD 2026
 
 <h2> 38th IEEE/SBC International Symposium on Computer Architecture and High Performance Computing </h2>
 

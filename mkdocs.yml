@@ -21,6 +21,7 @@ theme:
 plugins:
   - search:
       enabled: false
+  - glightbox
 
 watch:
   - mkdocs.yml
