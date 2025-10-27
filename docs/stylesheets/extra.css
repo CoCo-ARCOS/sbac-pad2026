@@ -177,3 +177,24 @@
 /* Minor polish */
 .landing-main p { margin: 0 0 0.9rem; }
 .landing-aside h4 { margin-top: 0; }
+
+
+/* Aplica a los títulos de los eventos (el texto principal) */
+.timeline .timeline-item-title {
+    font-size: 1.1em; /* Ajusta este valor (e.g., 1.2em, 16px, smaller) */
+}
+
+/* Aplica a los subtítulos de los eventos (la fecha/hora) */
+.timeline .timeline-item-subtitle {
+    font-size: 0.9em; /* Ajusta este valor */
+}
+
+/* Aplica al contenido/descripción debajo del título */
+.timeline .timeline-item-content {
+    font-size: 1em; /* Ajusta este valor */
+}
+
+/* Opcional: Si quieres cambiar el tamaño del icono */
+.timeline .timeline-icon {
+    font-size: 1.2em; /* Ajusta este valor */
+}

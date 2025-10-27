@@ -2,7 +2,10 @@
 hide:
   - navigation
   - toc
+  - title
 ---
+
+# 
 
 <!-- # SBAC-PAD 2026
 
@@ -23,7 +26,7 @@ The city is full of great monuments, like the royal palace, the Plaza Mayor or t
 ///
 
 
-/// html | div[style='flex: 1 1 30%; padding: 0 10px; min-width: 250px; float: left;width: 30%;']
+/// html | div[style='flex: 1 1 30%; padding: 0 10px; min-width: 250px; float: right;width: 30%;']
 #### Important dates
 ::timeline::
 [
@@ -67,6 +70,14 @@ The city is full of great monuments, like the royal palace, the Plaza Mayor or t
 
 ## Organized by
 
+<div class="grid cards" style="text-align: center;" markdown>
+
+- <a href="https://www.uc3m.es/Home" target="_blank" rel="University Carlos III of Madrid">![Logo de la UC3m](assets/imgs/uc3m.jpg){width=300px }</a>
+ 
+- <a href="https://www.uc3m.es/research-groups/arcos" target="_blank" rel="ARCOS research group">![Logo del grupo ARCOS](assets/imgs/logo-arcos.png){ width=300px}</a>
+
+</div>
+<!-- 
 ::cards::
 
 [
@@ -84,11 +95,21 @@ The city is full of great monuments, like the royal palace, the Plaza Mayor or t
   }
 ]
 
-::/cards::
+::/cards:: -->
 
 ## Promoted by
 
-::cards:: 
+<div class="grid cards" style="text-align: center;" markdown>
+
+- <a href="https://www.sbc.org.br/" target="_blank" rel="SBC logo">![SBC logo](./assets/imgs/sbc_alt.png){width=100px}</a>
+ 
+- <a href="https://www.computer.org/" target="_blank" rel="IEEE logo">![IEEE logo](./assets/imgs/sponsor_IEEE-1024x313.png){ width=300px}</a>
+
+- <a href="https://www2.sbc.org.br/ce-acpad/" target="_blank" rel="CEACPAD logo">![CEACPAD logo](./assets/imgs/CEACPAD-LOGOTIPO-PRINCIPAL-01.png){ width=300px}</a>
+</div>
+
+
+<!-- ::cards:: 
 
 - title: 
   content: 
@@ -113,4 +134,4 @@ The city is full of great monuments, like the royal palace, the Plaza Mayor or t
     alt: CEACPAD logo
     width: 80%
 ::/cards::
-
+ -->
