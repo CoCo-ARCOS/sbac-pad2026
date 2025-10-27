@@ -23,7 +23,8 @@ Accepted, peer-reviewed workshop papers will be included in the SBAC-PAD 2026 pr
 
 ## Important dates
 
-TBA
+* Deadline for Workshop and Tutorial Proposals: April 15th, 2026 (AoE)
+* Notification of acceptance: April 30th, 2026
 
 ## Submission Guidelines
 
