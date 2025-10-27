@@ -1,4 +1,4 @@
-# Call for Workshop Proposals
+# Call for Workshop and Tutorials Proposals
 
 The 38th IEEE/SBC International Symposium on Computer Architecture and High Performance Computing (SBAC-PAD) invites proposals for workshops that provide a forum for discussions among researchers and practitioners on focused and timely topics within the fields of Computer Architecture and High-Performance Computing (HPC).
 

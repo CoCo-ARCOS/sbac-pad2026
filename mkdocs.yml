@@ -3,7 +3,7 @@ site_name: SBAC-PAD 2026
 theme:
   name: material
   palette:
-    primary: blue
+    primary: custom # white
     accent: black
   logo: assets/logo.png
   features:
