@@ -1,11 +1,13 @@
 :root {
   /* Override primary color */
-  --md-primary-fg-color: #010E77;
-  --md-primary-fg-color--light: #4d90fe;
+  --md-primary-fg-color: #E6EEF8;
+  --md-primary-fg-color--light: #E6EEF8;
   --md-primary-fg-color--dark: #003c7a;
 
   /* (Optional) Override accent color */
   --md-accent-fg-color: #ff9800;
+
+  --md-default-color-text: #004A7F; /* Ejemplo: Azul Oscuro */
 }
 
 
@@ -100,6 +102,7 @@
 .md-tabs__link {
     font-weight: bold;
     font-size: 16px;
+    color: #003c7a;
 }
 
 /* Optional: To bold only the top-level items */
@@ -110,6 +113,12 @@
 /* Optional: To bold the current active item */
 .md-tabs__link--active {
     font-weight: bold;
+    color: #012446;
+}
+
+.md-tabs__item--active {
+  font-weight: bold;
+    color: #012446;
 }
 
 .md-header__title {
@@ -198,3 +207,4 @@
 .timeline .timeline-icon {
     font-size: 1.2em; /* Ajusta este valor */
 }
+
