@@ -1,0 +1,210 @@
+:root {
+  /* Override primary color */
+  --md-primary-fg-color: #E6EEF8;
+  --md-primary-fg-color--light: #E6EEF8;
+  --md-primary-fg-color--dark: #003c7a;
+
+  /* (Optional) Override accent color */
+  --md-accent-fg-color: #ff9800;
+
+  --md-default-color-text: #004A7F; /* Ejemplo: Azul Oscuro */
+}
+
+
+/* ---- Banner container ---- */
+.banner {
+    /* Responsive height instead of fixed 500px */
+    min-height: clamp(220px, 40vh, 560px);
+    width: 100%;
+    z-index: 1;
+    position: relative;
+  
+    /* Background image scales & centers */
+    background-image:
+      linear-gradient(rgba(255,255,255,0.1), rgba(255,255,255,0.1)),
+      url('../assets/imgs/banner.jpg');
+    background-size: cover;
+    background-position: 10% 30%;
+    background-repeat: no-repeat;
+    background-blend-mode: lighten; /* keeps your light overlay */
+  
+    /* Layout */
+    display: grid;
+    place-items: center; /* center content both axes */
+    text-align: center;
+    color: #FFF;
+    padding: 3rem 1rem; /* breathing room on small screens */
+  }
+  
+  /* Optional: inner wrapper to limit line length on wide screens */
+  .banner__content {
+    max-width: 72rem; /* ~1152px */
+    margin-inline: auto;
+  }
+  
+  /* ---- Typography: use clamp() for fluid type ---- */
+  .banner h1 {
+    font-size: clamp(.75rem, 6vw, 2.5rem); /* scales with viewport */
+    line-height: 1.05;
+    margin: 0.25em 0;
+    font-weight: 1800;
+    /* text-shadow: 1px 1px 2px white; */
+
+  }
+  
+  .banner p {
+    font-size: clamp(0.5rem, 3.2vw, 1.2rem);
+    line-height: 1.3;
+    margin: 0.25em 0 0;
+    font-weight: 600; /* was font-style: bold */
+    text-shadow: 1px 1px 2px white;
+    color: #222;
+    display: inline-block;
+    padding: 0.5em 1em;
+    border-radius: 0.7em;
+    background-color: rgba(255, 255, 255, 0.8);
+  }
+  
+  /* ---- Helpful tweaks at small widths ---- */
+  @media (max-width: 768px) {
+    .banner {
+      padding: 2rem 1rem;
+      background-position: 50% 40%; /* keep faces/subject higher if needed */
+    }
+    .banner h1,
+    .banner p {
+      text-shadow: 0 1px 1px rgba(128,128,128,0.7); /* soften on small screens */
+    }
+  }
+  
+  /* ---- Extremely small phones ---- */
+  @media (max-width: 380px) {
+    .banner {
+      min-height: 200px;
+      padding: 1.25rem 0.75rem;
+    }
+  }
+  
+  /* (Optional) if you actually want sticky behavior: */
+  /*
+  .banner {
+    position: sticky;
+    top: 0;
+  }
+  */
+  
+
+.md-header {
+    top: 0px;          /* This setting prevents the Material header from imposing into the space of the banner! */
+}
+
+/* Bold all main navigation items */
+.md-tabs__link {
+    font-weight: bold;
+    font-size: 16px;
+    color: #003c7a;
+}
+
+/* Optional: To bold only the top-level items */
+.md-tabs__item > .md-tabs__link {
+    font-weight: bold;
+}
+
+/* Optional: To bold the current active item */
+.md-tabs__link--active {
+    font-weight: bold;
+    color: #012446;
+}
+
+.md-tabs__item--active {
+  font-weight: bold;
+    color: #012446;
+}
+
+.md-header__title {
+  display: none !important;
+}
+
+/* .md-header__button.md-logo {
+  margin-top: 0;
+  margin-bottom: 0;
+  padding-top: 0;
+  padding-bottom: 0;
+} */
+
+.md-header__button.md-logo img,
+.md-header__button.md-logo svg {
+  display: block;
+  width: 30%;
+  height: auto;
+}
+
+.md-tabs .md-grid {
+  display: flex;
+  justify-content: flex-end;
+}
+
+.nt-timeline-title {
+    font-size: 20px;
+}
+
+
+/* Layout container */
+.landing-grid {
+  display: grid;
+  grid-template-columns: 3fr 1fr 2fr; /* ≈ 60% | 10% | 30% */
+  gap: 1.5rem;
+  align-items: start;
+}
+
+/* Optional: keep the aside visible while scrolling on large screens */
+@media (min-width: 1100px) {
+  .landing-aside {
+    position: sticky;
+    top: calc(var(--md-header-height, 64px) + 1rem);
+  }
+}
+
+/* Medium screens: two columns (main | aside) */
+@media (max-width: 1099.98px) and (min-width: 700px) {
+  .landing-grid {
+    grid-template-columns: 2fr 1fr; /* spacer drops */
+    grid-auto-flow: row;
+  }
+  .landing-spacer { display: none; }
+}
+
+/* Small screens: single column stack */
+@media (max-width: 699.98px) {
+  .landing-grid {
+    grid-template-columns: 1fr;
+  }
+  .landing-spacer { display: none; }
+  .landing-aside { order: 2; } /* put dates after the text; remove if you want it first */
+}
+
+/* Minor polish */
+.landing-main p { margin: 0 0 0.9rem; }
+.landing-aside h4 { margin-top: 0; }
+
+
+/* Aplica a los títulos de los eventos (el texto principal) */
+.timeline .timeline-item-title {
+    font-size: 1.1em; /* Ajusta este valor (e.g., 1.2em, 16px, smaller) */
+}
+
+/* Aplica a los subtítulos de los eventos (la fecha/hora) */
+.timeline .timeline-item-subtitle {
+    font-size: 0.9em; /* Ajusta este valor */
+}
+
+/* Aplica al contenido/descripción debajo del título */
+.timeline .timeline-item-content {
+    font-size: 1em; /* Ajusta este valor */
+}
+
+/* Opcional: Si quieres cambiar el tamaño del icono */
+.timeline .timeline-icon {
+    font-size: 1.2em; /* Ajusta este valor */
+}
+
