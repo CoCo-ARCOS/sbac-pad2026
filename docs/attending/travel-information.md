@@ -1,3 +1,8 @@
+---
+hide:
+  - toc
+---
+
 ## Flying to Madrid
 
 **Adolfo Suárez Madrid-Barajas Airport**

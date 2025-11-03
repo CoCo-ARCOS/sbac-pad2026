@@ -1,15 +1,44 @@
 :root {
-  /* Override primary color */
+  /* Override primary color (Header/Toolbar color) */
   --md-primary-fg-color: #E6EEF8;
   --md-primary-fg-color--light: #E6EEF8;
   --md-primary-fg-color--dark: #003c7a;
 
-  /* (Optional) Override accent color */
+  /*
+    Override the link/selection color (what you want to change).
+    This uses the dark color for better contrast and visibility.
+  */
+  --md-default-fg-color--focus: #003c7a; /* For keyboard focus/highlight */
+  --md-default-fg-color--hover: #003c7a;  /* For unvisited links on hover */
+
+  /* The main color for links in the body text (unvisited) */
+  --md-default-fg-color--link: #004A7F;
+
+  /* Optional: Override accent color (used for things like the progress bar or search highlight) */
   --md-accent-fg-color: #ff9800;
 
-  --md-default-color-text: #004A7F; /* Ejemplo: Azul Oscuro */
+  /* Default text color for the main content */
+  --md-default-color-text: #004A7F;
 }
 
+/* Optional: Specifically target link color in the main content for visited links */
+.md-typeset a:not([data-md-button]):visited {
+    color: #003058; /* A slightly different shade for visited links */
+}
+
+/* Optional: Target the color of the active item in the sidebar/table of contents */
+.md-nav__link--active,
+.md-nav__item .md-nav__link[data-md-state="blur"],
+.md-meta__link  {
+    color: #003c7a;
+}
+
+
+.md-nav__link--active,
+.md-tabs__link--active,
+.md-typeset a {
+  color: var(--md-accent-fg-color) !important;
+}
 
 /* ---- Banner container ---- */
 .banner {
@@ -123,6 +152,11 @@
 
 .md-header__title {
   display: none !important;
+}
+
+.md-nav__link--active{
+  font-weight: bold;
+    color: #012446;
 }
 
 /* .md-header__button.md-logo {

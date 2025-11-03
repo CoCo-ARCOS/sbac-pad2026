@@ -1,4 +1,9 @@
-# Call for Workshop and Tutorials Proposals
+---
+hide:
+  - toc
+---
+
+# Call for Workshop Proposals
 
 The 38th IEEE/SBC International Symposium on Computer Architecture and High Performance Computing (SBAC-PAD) invites proposals for workshops that provide a forum for discussions among researchers and practitioners on focused and timely topics within the fields of Computer Architecture and High-Performance Computing (HPC).
 
@@ -23,7 +28,7 @@ Accepted, peer-reviewed workshop papers will be included in the SBAC-PAD 2026 pr
 
 ## Important dates
 
-* Deadline for Workshop and Tutorial Proposals: April 15th, 2026 (AoE)
+* Deadline for Workshop Proposals: April 15th, 2026 (AoE)
 * Notification of acceptance: April 30th, 2026
 
 ## Submission Guidelines

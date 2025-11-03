@@ -8,13 +8,15 @@ theme:
   favicon: assets/logo.png
   features:
     - navigation.path
-    - navigation.sections
+    #- navigation.sections
     - navigation.tabs
     - navigation.top
     - navigation.tracking
     - navigation.tabs.sticky
     - toc.follow
-    - toc.integrate 
+    #- toc.integrate 
+    - navigation.instant
+    - navigation.indexes
 
   custom_dir: overrides
 
@@ -22,6 +24,7 @@ plugins:
   - search:
       enabled: false
   - glightbox
+  - blog
 
 watch:
   - mkdocs.yml
@@ -30,21 +33,30 @@ watch:
 
 nav:
   - Home: index.md
-  - News: news.md
+  - News: 
+    - blog/index.md
   - Submissions:
       - Call for Papers: submissions/call-for-papers.md
       - Call for Workshops Proposals: submissions/call-for-workshops-proposals.md
+      - Call for Workshops Proposals: submissions/call-for-tutorials.md
       - Important Dates: submissions/important-dates.md
   - Committes:
       - Organizing Committee: committees/organizing-committee.md
       - Program Committee: committees/program-committee.md
   - Conference:
       - Keynotes: conference/keynotes.md
-      - Venue: conference/venue.md
-      - Travel information: conference/travel-information.md
       - Registration: conference/registration.md
       - Sponsors: conference/sponsors.md
       - Program: conference/program.md
+  - Attending: 
+      - Venue: attending/venue.md
+      - Travel Information: attending/travel-information.md
+      - Visa Information: attending/visa-information.md
+      - Things to Do: attending/things-to-do.md
+
+
+
+  - Past Editions: https://www2.sbc.org.br/ce-acpad/sbac-pad/
 
 markdown_extensions:
   - neoteroi.timeline

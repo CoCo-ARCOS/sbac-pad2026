@@ -1,3 +1,8 @@
+---
+hide:
+  - toc
+---
+
 **The conference will take place at the Universidad Carlos III de Madrid (Madrid-Puerta de Toledo campus), located at the heart of Madrid´s bustling city center:**
 
 Address: 
