@@ -26,11 +26,11 @@ Workshop proposals must be submitted in PDF format and must include:
 
 * Workshop name, acronym, and duration (half-day or full-day).
 * Brief description of the workshop (0.5 – 1 page).
-⁠* List of topics covered and their relevance to the SBAC-PAD community.
+* List of topics covered and their relevance to the SBAC-PAD community.
 * Organizers’ details: names, affiliations, and short bios (5-10 lines).
-⁠* Tentative program committee (if available).
-⁠* Expected workshop structure: contributed papers, invited talks, panels, posters, or other activities.
-⁠* History of previous editions (if applicable): attendance, number of submissions/acceptances, and links to previous workshop websites.
+* Tentative program committee (if available).
+* Expected workshop structure: contributed papers, invited talks, panels, posters, or other activities.
+* History of previous editions (if applicable): attendance, number of submissions/acceptances, and links to previous workshop websites.
 
 ## Proposal Submission
 
