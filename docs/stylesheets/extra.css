@@ -20,7 +20,7 @@
   /* Default text color for the main content */
   --md-default-color-text: #004A7F;
 
-  font-size: 1.1rem;
+  /*font-size: 1.1rem;*/ /* This breaks the page, why?*/
 }
 
 /* Optional: Specifically target link color in the main content for visited links */
@@ -294,4 +294,8 @@
 
 .md-typeset h5 code {
     text-transform: none
+}
+
+.md-typeset{
+  font-size: 0.75rem;
 }
