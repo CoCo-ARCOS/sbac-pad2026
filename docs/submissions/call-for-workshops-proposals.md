@@ -7,18 +7,7 @@ hide:
 
 The 38th IEEE/SBC International Symposium on Computer Architecture and High Performance Computing (SBAC-PAD) invites proposals for workshops that provide a forum for discussions among researchers and practitioners on focused and timely topics within the fields of Computer Architecture and High-Performance Computing (HPC).
 
-For this edition, we are particularly interested in emerging and transformative topics, including but not limited to:
-
-*⁠ ⁠HPC for healthcare, genomics, and life sciences applications.
-*⁠ ⁠Big data management and analytics in HPC environments.
-*⁠ ⁠Energy-efficient, thermal-aware, and sustainable HPC systems.
-*⁠ ⁠AI-driven HPC: adaptive, self-optimizing, and “thinking” computer systems.
-*⁠ ⁠Quantum computing and its integration with HPC architectures.
-*⁠ ⁠Heterogeneous and collaborative computing at extreme scales.
-*⁠ ⁠Edge and cloud convergence for HPC workloads.
-*⁠ ⁠Security, resilience, and fault tolerance in large-scale HPC infrastructures.
-*⁠ ⁠Software quality, verification, and correctness in HPC applications.
-*⁠ ⁠Flexible, scalable, and domain-specific architectures for next-generation computing.
+For this edition, we are particularly interested in emerging and transformative topics.
 
 ## Workshop Format and Publication
 
