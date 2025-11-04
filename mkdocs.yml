@@ -38,7 +38,7 @@ nav:
   - Submissions:
       - Call for Papers: submissions/call-for-papers.md
       - Call for Workshops Proposals: submissions/call-for-workshops-proposals.md
-      - Call for Workshops Proposals: submissions/call-for-tutorials.md
+      - Call for Tutorials Proposals: submissions/call-for-tutorials.md
       - Important Dates: submissions/important-dates.md
   - Committes:
       - Organizing Committee: committees/organizing-committee.md
@@ -48,6 +48,7 @@ nav:
       - Registration: conference/registration.md
       - Sponsors: conference/sponsors.md
       - Program: conference/program.md
+      - Co-Located Events: conference/co-located.md
   - Attending: 
       - Venue: attending/venue.md
       - Travel Information: attending/travel-information.md
