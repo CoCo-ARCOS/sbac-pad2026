@@ -12,7 +12,7 @@ hide:
 
 
 ## Program Chairs
-* Dr. Javier García-Blas (Universidad Carlos III de Madrid, Spain)
+* Prof. Javier García-Blas (Universidad Carlos III de Madrid, Spain)
 * Prof. Lúcia Maria de A. Drummond (Fluminense Federal University, Brazil)
 
 ## Local Chairs
