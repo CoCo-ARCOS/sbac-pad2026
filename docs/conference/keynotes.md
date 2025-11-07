@@ -10,7 +10,7 @@ hide:
 <div class="grid-container" markdown>
 
 <div class="team-member">
-  <img src="/assets/imgs/keynotes/DTalia.jpg" class="circle" alt="Domenico Talia" />
+  <img src="assets/imgs/keynotes/DTalia.jpg" class="circle" alt="Domenico Talia" />
   
   <h1>Domenico Talia</h1>
 
@@ -24,7 +24,7 @@ hide:
 </div>
 
 <div class="team-member">
-  <img src="/assets/imgs/keynotes/rosabadia.png" class="circle" alt="Rosa M Badia" />
+  <img src="assets/imgs/keynotes/rosabadia.png" class="circle" alt="Rosa M Badia" />
   
   <h1>Rosa M Badia</h1>
 
