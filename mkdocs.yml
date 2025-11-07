@@ -68,7 +68,7 @@ markdown_extensions:
   - pymdownx.details
   - pymdownx.superfences
   - md_in_html
-
+  
 extra_css:
   - stylesheets/neoteroi-mkdocs.css
   - stylesheets/extra.css
