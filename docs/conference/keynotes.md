@@ -53,6 +53,9 @@ cloud for further analysis. This keynote discusses distributed machine learning 
 reference architecture to adapt distributed machine learning algorithms at the edge-cloud
 continuum. Real applications are presented, and the main open research issues are discussed.
 
+![Image title](https://coco-arcos.github.io/sbac-pad2026/assets/imgs/keynotes/DTalia.jpg){ align=left width="300" }
+
+
 **Speaker**: Domenico Talia is a full professor of computer engineering at the University of Calabria, Italy and
 an Honorary professor at Noida University, India. He is a co-founder of the start-up DtoK Lab. His
 research interests include Big Data analysis, high-performance computing, parallel and distributed
