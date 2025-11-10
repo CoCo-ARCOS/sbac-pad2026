@@ -10,13 +10,14 @@ hide:
 <div class="grid-container" markdown>
 
 <div class="team-member">
-  <img src="https://coco-arcos.github.io/sbac-pad2026/assets/imgs/keynotes/DTalia.jpg" class="circle" alt="Domenico Talia" />
-  
+  <a href="#distributed-machine-learning-bridging-cloud-and-edge-systems">
+    <img src="https://coco-arcos.github.io/sbac-pad2026/assets/imgs/keynotes/DTalia.jpg" class="circle" alt="Domenico Talia" />
+  </a>
   <h1>Domenico Talia</h1>
 
-  <h3>University of Calabria</h3>
+  <h4>University of Calabria</h4>
   
-  <p>Distributed Machine Learning: Bridging Cloud and Edge Systems</p>
+  <h3 style="color: #010E77">Distributed Machine Learning: Bridging Cloud and Edge Systems</h3>
   
   <p style="font-size: 0.9em; text-align: left;">
     <a href="#distributed-machine-learning-bridging-cloud-and-edge-systems">See details...</a>
@@ -30,7 +31,7 @@ hide:
 
   <h3>Barcelona Supercomputing Center</h3>
   
-  <p>TBD</p>
+  <h3 style="color: #010E77">TBD</h3>
   
   <p style="font-size: 0.9em; text-align: left;">
     
@@ -53,7 +54,7 @@ cloud for further analysis. This keynote discusses distributed machine learning 
 reference architecture to adapt distributed machine learning algorithms at the edge-cloud
 continuum. Real applications are presented, and the main open research issues are discussed.
 
-![Image title](https://coco-arcos.github.io/sbac-pad2026/assets/imgs/keynotes/DTalia.jpg){ align=left width="300" }
+![Image title](https://coco-arcos.github.io/sbac-pad2026/assets/imgs/keynotes/DTalia.jpg){ align=left width="35%" }
 
 
 **Speaker**: Domenico Talia is a full professor of computer engineering at the University of Calabria, Italy and
