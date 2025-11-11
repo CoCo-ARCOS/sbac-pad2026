@@ -17,7 +17,9 @@ hide:
 
   <h4>University of Calabria</h4>
   
-  <h3 style="color: #010E77">Distributed Machine Learning: Bridging Cloud and Edge Systems</h3>
+  <a href="#distributed-machine-learning-bridging-cloud-and-edge-systems">
+    <h3 style="color: #010E77">Distributed Machine Learning: Bridging Cloud and Edge Systems</h3>
+  </a>
   
   <p style="font-size: 0.9em; text-align: left;">
     <a href="#distributed-machine-learning-bridging-cloud-and-edge-systems">See details...</a>
@@ -25,16 +27,20 @@ hide:
 </div>
 
 <div class="team-member">
-  <img src="https://coco-arcos.github.io/sbac-pad2026/assets/imgs/keynotes/rosabadia.png" class="circle" alt="Rosa M Badia" />
-  
+  <a href="#tasks-based-hybrid-workflows-for-emergent-technologies">
+    <img src="https://coco-arcos.github.io/sbac-pad2026/assets/imgs/keynotes/badia.jpg" class="circle" alt="Rosa M Badia" />
+  </a>
+
   <h1>Rosa M Badia</h1>
 
   <h3>Barcelona Supercomputing Center</h3>
   
-  <h3 style="color: #010E77">TBD</h3>
+  <a href="#tasks-based-hybrid-workflows-for-emergent-technologies">
+    <h3 style="color: #010E77">Tasks based hybrid workflows for emergent technologies</h3>
+  </a>
   
   <p style="font-size: 0.9em; text-align: left;">
-    
+    <a href="#tasks-based-hybrid-workflows-for-emergent-technologies">See details...</a>
   </p>
 </div>
 
@@ -56,8 +62,7 @@ continuum. Real applications are presented, and the main open research issues ar
 
 ![Image title](https://coco-arcos.github.io/sbac-pad2026/assets/imgs/keynotes/DTalia.jpg){ align=left width="35%" }
 
-
-**Speaker**: Domenico Talia is a full professor of computer engineering at the University of Calabria, Italy and
+**Speaker**: *<span style="color: #010E77">Domenico Talia</span>* is a full professor of computer engineering at the University of Calabria, Italy and
 an Honorary professor at Noida University, India. He is a co-founder of the start-up DtoK Lab. His
 research interests include Big Data analysis, high-performance computing, parallel and distributed
 data mining algorithms, Cloud computing, distributed machine learning, social data analysis, peer-
@@ -75,3 +80,13 @@ Data, and Future Generation Computer Systems, and served as a program chair or p
 committee member of several international conferences. Talia is a senior member of the
 Association for Computing Machinery (ACM) and IEEE Computer Society and has been a reviewer
 for several research agencies and public administrations.
+
+---
+
+# Tasks based hybrid workflows for emergent technologies
+
+![Image title](https://coco-arcos.github.io/sbac-pad2026/assets/imgs/keynotes/badia.jpg){ align=left width="35%" }
+
+**Speaker**:  *<span style="color: #010E77">Rosa M. Badia</span>* holds a PhD in Computer Science (1994) from the Technical University of Catalonia (UPC). She is the director of the HPC software research area and the manager of the Workflows and Distributed Computing research group, both roles at the Barcelona Supercomputing Center (BSC, Spain). 
+Her research has contributed to parallel programming models for multicore and distributed computing. Recent contributions have focused on the digital continuum, proposing new programming environments and software for edge-to-cloud, as well as for the support of hybrid quantum-classic workflows. The research is integrated in PyCOMPSs/COMPSs, a parallel task-based programming distributed computing framework, and its application to developing large heterogeneous workflows that combine HPC, Big Data, and Machine Learning. The group is also doing research around the dislib, a parallel machine learning library parallelized with PyCOMPSs. Dr Badia has published more than 200 papers on her research topics in international conferences and journals. She has been very active in projects funded by the European Commission and in contracts with industry. She was the PI of the EuroHPC project eFlows4HPC.
+She is a member of the EuroHPC JU RIAG and a member of the HiPEAC Network of Excellence. She received the Euro-Par Achievement Award 2019, the DonaTIC award, category Academia/Researcher in 2019 and the HPDC Achievement Award 2021. Since 2023 she is a member of the Institut d'Estudis Catalans (Catalan academy). She is the chair of the ACM Europe Council since beginning of 
