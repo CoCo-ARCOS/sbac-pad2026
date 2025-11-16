@@ -34,4 +34,4 @@ Workshop proposals must be submitted in PDF format and must include:
 
 ## Proposal Submission
 
-TBA
+Submission must be done using EasyChair: **List will be available soon**
