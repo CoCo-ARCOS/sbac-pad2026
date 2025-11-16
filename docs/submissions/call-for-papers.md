@@ -56,7 +56,7 @@ Topics of interest include (but are not limited to):
 
 The program committee will select the top-ranked papers as finalists, and one paper will be selected during the conference as the Best Paper. <!-- Selected papers will also be invited to submit an extended version to a special issue of the Journal of Parallel and Distributed Computing – JPDC  (pending approval). -->
 
-## Paper submission
+## Paper guidelines
 
 Paper submissions must be in English, have 10 pages maximum (excluding the references), and follow the IEEE conference manuscript formatting guidelines for double-column text using a single-spaced 10-point font on 8.5 × 11-inch pages. Templates are available from [http://www.ieee.org/conferences/publishing/templates.html](http://www.ieee.org/conferences/publishing/templates.html). Papers that do not meet these requirements might be rejected without a review. To be published in the conference proceedings and to be eligible for publication at the IEEE Xplore, one of the authors must register at the full rate and present his/her work at the conference.
 
@@ -67,3 +67,7 @@ Authors cannot include their names, affiliations, funding sources, or acknowledg
 Self-references that are relevant to the work are allowed, but they should not appear in the text in the first person. Instead, they should be referenced in the third person, like “Smith et al. found that… [4].”, and;
 
 For the authors’ own unpublished work use anonymous citations.
+
+## Paper submission
+
+Submission must be done using EasyChair: **List will be available soon**
