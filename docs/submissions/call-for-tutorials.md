@@ -22,3 +22,7 @@ Tutorials proposals must be submitted in PDF format and must include:
 * Organizers’ details: names, affiliations, and short bios (5-10 lines).
 * Tentative program (if available).
 * Expected structure and activities.
+
+## Submission 
+
+Submission must be done using EasyChair: **List will be available soon**
