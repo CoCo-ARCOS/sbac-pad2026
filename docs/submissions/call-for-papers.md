@@ -70,4 +70,4 @@ For the authors’ own unpublished work use anonymous citations.
 
 ## Paper submission
 
-Submission must be done using EasyChair: **List will be available soon**
+Submission must be done using EasyChair: **Link will be available soon**
