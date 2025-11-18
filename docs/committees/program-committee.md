@@ -1,3 +1,9 @@
+---
+hide:
+  - toc
+---
+
+
 # Track Chairs
 
 ##  TRACK 1: System Software
