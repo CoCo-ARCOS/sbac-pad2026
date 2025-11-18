@@ -9,7 +9,7 @@ hide:
 ##  TRACK 1: System Software
 
 * Pedro Valero Lara (Oak Ridge NL, USA)
-<!-- * Francieli Zanon Boito (University of Bordeaux, France) -->
+* Francieli Zanon Boito (University of Bordeaux, France)
 
 ## TRACK 2:	Computer Architecture	
 * Alberto Ros (University of Murcia)
@@ -17,7 +17,7 @@ hide:
 
 ## TRACK 3:	Distributed Systems, Networking and Storage	
 * Laurent LEFEVRE	(ENS Lyon, Grance)
-<!-- * Jean Luca Bez	(University of Berkeley/Lawrence Livermore, USA) -->
+* Jean Luca Bez	(University of Berkeley/Lawrence Livermore, USA)
 
 ## TRACK 4:	Parallel Applications and Algorithms	
 * Alba Cristina Magalhaes Alves de Melo	(University of Brasilia, Brazil)
