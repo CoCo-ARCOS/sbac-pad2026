@@ -40,8 +40,4 @@ hide:
 * Daniel Cordeiro (University of  Sao Paulo, Brazil)
 * David Exposito-Singh (University Carlos III of Madrid, Spain)
 
-# Publicity Chairs
 
-* Ricardo Santos (Federal University of Mato Grosso do Sul, Brazil)
-* Carlos Jaime Barrios (Universidad Industrial de Santander, Colombia)
-* Kuan-Ching Li (SMIEEE, FIET / Providence University, Taiwan)
