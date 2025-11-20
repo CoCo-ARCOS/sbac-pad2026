@@ -44,3 +44,4 @@ hide:
 
 * Ricardo Santos (Federal University of Mato Grosso do Sul, Brazil)
 * Carlos Jaime Barrios (Universidad Industrial de Santander, Colombia)
+* Kuan-Ching Li (SMIEEE, FIET / Providence University, Taiwan)
