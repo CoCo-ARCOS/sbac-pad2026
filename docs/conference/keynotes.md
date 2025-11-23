@@ -40,15 +40,15 @@ hide:
 </div>
 
 <div class="team-member">
-  <a href="#Estela-Suarez-TBD">
+  <a href="#estela-suarez-tbd">
     <img src="https://coco-arcos.github.io/sbac-pad2026/assets/imgs/keynotes/estela.jpg" class="circle" alt="Estela Suarez" />
   </a>
   <h1>Estela Suarez</h1>
 
   <h4>Jülich Supercomputing Centre and University of Bonn</h4>
   
-  <a href="#Estela-Suarez-TBD">
-    <h3 style="color: #010E77">Estela Suarez Title TBD</h3>
+  <a href="#estela-suarez-tbd">
+    <h3 style="color: #010E77">Title TBD</h3>
   </a>
   
 </div>
