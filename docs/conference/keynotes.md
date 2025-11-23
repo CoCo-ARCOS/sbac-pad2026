@@ -52,12 +52,12 @@ hide:
 
   <h4>Jülich Supercomputing Centre and University of Bonn</h4>
   
-  <a href="#Estela Suarez TBD">
+  <a href="#Estela-Suarez-TBD">
     <h3 style="color: #010E77">Estela Suarez TBD</h3>
   </a>
   
   <p style="font-size: 0.9em; text-align: left;">
-    <a href="#distributed-machine-learning-bridging-cloud-and-edge-systems">See details...</a>
+    <a href="#Estela-Suarez-TB">See details...</a>
   </p>
 </div>
 
