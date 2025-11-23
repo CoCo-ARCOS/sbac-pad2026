@@ -21,9 +21,6 @@ hide:
     <h3 style="color: #010E77">Distributed Machine Learning: Bridging Cloud and Edge Systems</h3>
   </a>
   
-  <p style="font-size: 0.9em; text-align: left;">
-    <a href="#distributed-machine-learning-bridging-cloud-and-edge-systems">See details...</a>
-  </p>
 </div>
 
 <div class="team-member">
@@ -33,19 +30,17 @@ hide:
 
   <h1>Rosa M Badia</h1>
 
-  <h3>Barcelona Supercomputing Center</h3>
+  <h4>Barcelona Supercomputing Center</h4>
   
   <a href="#tasks-based-hybrid-workflows-for-emergent-technologies">
     <h3 style="color: #010E77">Tasks based hybrid workflows for emergent technologies</h3>
   </a>
   
-  <p style="font-size: 0.9em; text-align: left;">
-    <a href="#tasks-based-hybrid-workflows-for-emergent-technologies">See details...</a>
-  </p>
+
 </div>
 
 <div class="team-member">
-  <a href="#distributed-machine-learning-bridging-cloud-and-edge-systems">
+  <a href="#Estela-Suarez-TBD">
     <img src="https://coco-arcos.github.io/sbac-pad2026/assets/imgs/keynotes/estela.jpg" class="circle" alt="Estela Suarez" />
   </a>
   <h1>Estela Suarez</h1>
@@ -53,12 +48,9 @@ hide:
   <h4>Jülich Supercomputing Centre and University of Bonn</h4>
   
   <a href="#Estela-Suarez-TBD">
-    <h3 style="color: #010E77">Estela Suarez TBD</h3>
+    <h3 style="color: #010E77">Estela Suarez Title TBD</h3>
   </a>
   
-  <p style="font-size: 0.9em; text-align: left;">
-    <a href="#Estela-Suarez-TB">See details...</a>
-  </p>
 </div>
 
 
