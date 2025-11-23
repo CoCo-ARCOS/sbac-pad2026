@@ -92,7 +92,7 @@ for several research agencies and public administrations.
 
 ---
 
-# Tasks based hybrid workflows for emergent technologies
+# Tasks Based Hybrid Workflows for Emergent Technologies
 
 TBD
 
