@@ -104,6 +104,6 @@ She is a member of the EuroHPC JU RIAG and a member of the HiPEAC Network of Exc
 
 # Estela Suarez TBD
 
-![Image title](https://coco-arcos.github.io/sbac-pad2026/assets/imgs/keynotes/estela.jpg){ align=left width="35%" } 
+![Image title](https://coco-arcos.github.io/sbac-pad2026/assets/imgs/keynotes/estela.jpg){ align=left width="25%" } 
 
 **Speaker**:  *<span style="color: #010E77">Estela Suarez</span>* is Joint Lead of the department Novel System Architecture Design at the Jülich Supercomputing Centre, and Associate Professor for High Performance Computing at the University of Bonn. Her expertise is in HPC system architecture and codesign. As leader of the DEEP project series, she has driven the development of the Modular Supercomputing Architecture, including the implementation and validation of hardware, software and applications. In addition, she leads the energy efficiency project SEANERGYS and has led the codesign efforts within the European Processor Initiative in 2018-2024. From 2024 to 2025 she has been Senior Principal Solution Architect at SiPEARL, during a sabbatical. She holds a Master's degree in Astrophysics from the University Complutense of Madrid (Spain) and a PhD in Physics from the University of Geneva (Switzerland).
