@@ -44,6 +44,23 @@ hide:
   </p>
 </div>
 
+<div class="team-member">
+  <a href="#distributed-machine-learning-bridging-cloud-and-edge-systems">
+    <img src="https://coco-arcos.github.io/sbac-pad2026/assets/imgs/keynotes/estela.jpg" class="circle" alt="Estela Suarez" />
+  </a>
+  <h1>Estela Suarez</h1>
+
+  <h4>Jülich Supercomputing Centre and University of Bonn</h4>
+  
+  <a href="#Estela Suarez TBD">
+    <h3 style="color: #010E77">Estela Suarez TBD</h3>
+  </a>
+  
+  <p style="font-size: 0.9em; text-align: left;">
+    <a href="#distributed-machine-learning-bridging-cloud-and-edge-systems">See details...</a>
+  </p>
+</div>
+
 
 </div>
 
@@ -89,4 +106,12 @@ for several research agencies and public administrations.
 
 **Speaker**:  *<span style="color: #010E77">Rosa M. Badia</span>* holds a PhD in Computer Science (1994) from the Technical University of Catalonia (UPC). She is the director of the HPC software research area and the manager of the Workflows and Distributed Computing research group, both roles at the Barcelona Supercomputing Center (BSC, Spain). 
 Her research has contributed to parallel programming models for multicore and distributed computing. Recent contributions have focused on the digital continuum, proposing new programming environments and software for edge-to-cloud, as well as for the support of hybrid quantum-classic workflows. The research is integrated in PyCOMPSs/COMPSs, a parallel task-based programming distributed computing framework, and its application to developing large heterogeneous workflows that combine HPC, Big Data, and Machine Learning. The group is also doing research around the dislib, a parallel machine learning library parallelized with PyCOMPSs. Dr Badia has published more than 200 papers on her research topics in international conferences and journals. She has been very active in projects funded by the European Commission and in contracts with industry. She was the PI of the EuroHPC project eFlows4HPC.
-She is a member of the EuroHPC JU RIAG and a member of the HiPEAC Network of Excellence. She received the Euro-Par Achievement Award 2019, the DonaTIC award, category Academia/Researcher in 2019 and the HPDC Achievement Award 2021. Since 2023 she is a member of the Institut d'Estudis Catalans (Catalan academy). She is the chair of the ACM Europe Council since beginning of 
+She is a member of the EuroHPC JU RIAG and a member of the HiPEAC Network of Excellence. She received the Euro-Par Achievement Award 2019, the DonaTIC award, category Academia/Researcher in 2019 and the HPDC Achievement Award 2021. Since 2023 she is a member of the Institut d'Estudis Catalans (Catalan academy). She is the chair of the ACM Europe Council.
+
+---
+
+# Estela Suarez TBD
+
+![Image title](https://coco-arcos.github.io/sbac-pad2026/assets/imgs/keynotes/estela.jpg){ align=left width="35%" } 
+
+**Speaker**:  *<span style="color: #010E77">Estela Suarez</span>* is Joint Lead of the department Novel System Architecture Design at the Jülich Supercomputing Centre, and Associate Professor for High Performance Computing at the University of Bonn. Her expertise is in HPC system architecture and codesign. As leader of the DEEP project series, she has driven the development of the Modular Supercomputing Architecture, including the implementation and validation of hardware, software and applications. In addition, she leads the energy efficiency project SEANERGYS and has led the codesign efforts within the European Processor Initiative in 2018-2024. From 2024 to 2025 she has been Senior Principal Solution Architect at SiPEARL, during a sabbatical. She holds a Master's degree in Astrophysics from the University Complutense of Madrid (Spain) and a PhD in Physics from the University of Geneva (Switzerland).
