@@ -26,6 +26,8 @@ hide:
 ## TRACK 5:	Performance Evaluation	
 * Leonel Sousa (INESC Lisboa, Portugal)
 <!-- * Anne Cecile Orgeire (CNRS Rennes, France) -->
+* Ahmad Tarraf, Technical University of Darmstadt, Germany
+
 
 ## TRACK 6:	Parallel and Distributed Computing for AI and Data Analytics
 * Fabrizio Marozzo (University of Calabria, Italy)
