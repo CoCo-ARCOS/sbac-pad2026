@@ -24,7 +24,7 @@ hide:
 * Stefano Markidis	(KTH)
 
 ## TRACK 5:	Performance Evaluation	
-* Leonel Sousa (INESC Lisboa, Portugal)
+* Leonel Sousa (INESC-D, Instituto Superior Técnico, Universidade de Lisboa, Portugal)
 <!-- * Anne Cecile Orgeire (CNRS Rennes, France) -->
 * Ahmad Tarraf, Technical University of Darmstadt, Germany
 
