@@ -17,8 +17,8 @@ Accepted, peer-reviewed workshop papers will be included in the SBAC-PAD 2026 pr
 
 ## Important dates
 
-* Deadline for Workshop Proposals: April 15th, 2026 (AoE)
-* Notification of acceptance: April 30th, 2026
+* Deadline for Workshop Proposals: April 1th, 2026 (AoE)
+* Notification of acceptance: April 15th, 2026
 
 ## Submission Guidelines
 
@@ -34,4 +34,7 @@ Workshop proposals must be submitted in PDF format and must include:
 
 ## Proposal Submission
 
-Submission must be done using EasyChair: **List will be available soon**
+Submission must be done using EasyChair.
+
+[Submit Workshop proposal :fontawesome-solid-paper-plane:](https://easychair.org/my2/conference?conf=sbacpad2026){ .md-button }
+

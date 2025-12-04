@@ -70,4 +70,6 @@ For the authors’ own unpublished work use anonymous citations.
 
 ## Paper submission
 
-Submission must be done using EasyChair: **Link will be available soon**
+Submission must be done using EasyChair: 
+
+[Submit Paper :fontawesome-solid-paper-plane:](https://easychair.org/my2/conference?conf=sbacpad2026){ .md-button }

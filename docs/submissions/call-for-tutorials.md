@@ -9,8 +9,8 @@ The 38th IEEE/SBC International Symposium on Computer Architecture and High Perf
 
 ## Important dates
 
-* Deadline for Tutorial Proposals: April 15th, 2026 (AoE)
-* Notification of acceptance: April 30th, 2026
+* Deadline for Tutorial Proposals: April 1th, 2026 (AoE)
+* Notification of acceptance: April 15th, 2026
 
 ## Submission Guidelines
 
@@ -25,4 +25,6 @@ Tutorials proposals must be submitted in PDF format and must include:
 
 ## Submission 
 
-Submission must be done using EasyChair: **List will be available soon**
+Submission must be done using EasyChair:
+
+[Submit Tutorial proposal :fontawesome-solid-paper-plane:](https://easychair.org/my2/conference?conf=sbacpad2026){ .md-button }
