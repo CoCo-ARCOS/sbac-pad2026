@@ -1,3 +1,9 @@
+---
+title: Keynotes
+hide:
+  - toc
+---
+
 # Registration Information
 
 ## Registration link
