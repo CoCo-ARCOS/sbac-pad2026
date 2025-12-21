@@ -306,7 +306,7 @@
 .grid-container {
     display: grid;
     /* Define 3 columnas de igual ancho */
-    grid-template-columns: repeat(3, 1fr);
+    grid-template-columns: repeat(4, 1fr);
     gap: 30px; /* Espacio entre las columnas */
     margin: 30px 0;
 }

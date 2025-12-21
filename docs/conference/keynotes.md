@@ -53,6 +53,20 @@ hide:
   
 </div>
 
+<div class="team-member">
+  <a href="#viktor-k-prasanna-tbd">
+    <img src="https://coco-arcos.github.io/sbac-pad2026/assets/imgs/keynotes/viktor.png" class="circle" alt="Viktor K. Prasanna" />
+  </a>
+  <h1>Viktor K. Prasanna</h1>
+
+  <h4>University of Southern California</h4>
+  
+  <a href="#viktor-k-prasanna-tbd">
+    <h3 style="color: #010E77">Title TBD</h3>
+  </a>
+  
+</div>
+
 
 </div>
 
@@ -111,3 +125,13 @@ TBD
 ![Image title](https://coco-arcos.github.io/sbac-pad2026/assets/imgs/keynotes/estela.jpg){ align=left width="35%" } 
 
 **Speaker**:  *<span style="color: #010E77">Estela Suarez</span>* is Joint Lead of the department Novel System Architecture Design at the Jülich Supercomputing Centre, and Associate Professor for High Performance Computing at the University of Bonn. Her expertise is in HPC system architecture and codesign. As leader of the DEEP project series, she has driven the development of the Modular Supercomputing Architecture, including the implementation and validation of hardware, software and applications. In addition, she leads the energy efficiency project SEANERGYS and has led the codesign efforts within the European Processor Initiative in 2018-2024. From 2024 to 2025 she has been Senior Principal Solution Architect at SiPEARL, during a sabbatical. She holds a Master's degree in Astrophysics from the University Complutense of Madrid (Spain) and a PhD in Physics from the University of Geneva (Switzerland).
+
+---
+
+# Viktor K. Prasanna TBD
+
+TBD
+
+![Image title](https://coco-arcos.github.io/sbac-pad2026/assets/imgs/keynotes/viktor.png){ align=left width="35%" } 
+
+**Speaker**:  *<span style="color: #010E77">Viktor K. Prasanna</span>* sites.usc.edu/prasanna) is Charles Lee Powell Chair in Engineering in the Ming Hsieh Department of Electrical and Computer Engineering and Professor of Computer Science at the University of Southern California. He is the director of the Center for Energy Informatics at USC and leads the FPGA (fpga.usc.edu) and Data Science Labs (dslab.usc.edu). His research interests include parallel and distributed computing, accelerator design, reconfigurable architectures and algorithms and high performance computing. He served as the Editor-in-Chief of the Journal of Parallel and Distributed Computing during 2012-‘24. Prasanna was the founding Chair of the IEEE Computer Society Technical Committee on Parallel Processing. He is the Steering Chair of the IEEE International Parallel and Distributed Processing Symposium. He is a Fellow of the IEEE, the ACM and the American Association for Advancement of Science (AAAS). He is a recipient of 2009 Outstanding Engineering Alumnus Award from the Pennsylvania State University and a 2019 Distinguished Alumnus Award from the Indian Institute of Science. He received the 2015 W. Wallace McDowell award from the IEEE Computer Society for his contributions to reconfigurable computing. He is an elected member of Academia Europaea.
