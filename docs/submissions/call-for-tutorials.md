@@ -9,7 +9,7 @@ The 38th IEEE/SBC International Symposium on Computer Architecture and High Perf
 
 ## Important dates
 
-* Deadline for Tutorial Proposals: April 1th, 2026 (AoE)
+* Deadline for Tutorial Proposals: April 1st, 2026 (AoE)
 * Notification of acceptance: April 15th, 2026
 
 ## Submission Guidelines
