@@ -73,6 +73,8 @@ The city is full of great monuments, like the royal palace, the Plaza Mayor or t
 <div class="grid cards" style="text-align: center;" markdown>
 
 - <a href="https://www.uc3m.es/Home" target="_blank" rel="University Carlos III of Madrid">![Logo de la UC3m](assets/imgs/uc3m.jpg){width=300px }</a>
+
+- <a href="https://www.uc3m.es/ss/Satellite/UC3MInstitucional/es/Detalle/Organismo_C/1371206582047/1371206581851/Instituto_de_Desarrollo_Tecnologico_y_Promocion_de_la_Innovacion__Pedro_Juan_de_Lastanosa_" target="_blank" rel="Instituto de Desarrollo Tecnológico y Promoción de la Innovación Pedro Juan de Lastanosa">![Logo del Instituto de Desarrollo Tecnológico y Promoción de la Innovación "Pedro Juan de Lastanosa"](assets/imgs/institutodesarrollo.png){width=300px }</a>
  
 - <a href="https://www.uc3m.es/research-groups/arcos" target="_blank" rel="ARCOS research group">![Logo del grupo ARCOS](assets/imgs/logo-arcos.png){ width=300px}</a>
 
