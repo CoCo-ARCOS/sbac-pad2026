@@ -335,3 +335,17 @@
         grid-template-columns: 1fr;
     }
 }
+
+/* Force 4 columns on desktops */
+@media screen and (min-width: 76.25em) {
+    .grid.cards {
+        grid-template-columns: repeat(4, 1fr) !important;
+    }
+}
+
+/* Force 2 columns on smaller screens/tablets */
+@media screen and (min-width: 45em) and (max-width: 76.24em) {
+    .grid.cards {
+        grid-template-columns: repeat(2, 1fr) !important;
+    }
+}
