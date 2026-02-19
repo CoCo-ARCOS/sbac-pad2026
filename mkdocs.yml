@@ -73,4 +73,10 @@ markdown_extensions:
 extra_css:
   - stylesheets/neoteroi-mkdocs.css
   - stylesheets/extra.css
+  - https://cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.0.3/cookieconsent.min.css
+
+extra_javascript:
+  - https://s3-us-west-2.amazonaws.com/ieeeshutpages/gdpr/settings.js
+  - https://cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.0.3/cookieconsent.min.js
+  - js/consent.js
   
