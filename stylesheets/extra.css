@@ -1,0 +1,351 @@
+:root {
+  /* Override primary color (Header/Toolbar color) */
+  --md-primary-fg-color: #E6EEF8;
+  --md-primary-fg-color--light: #E6EEF8;
+  --md-primary-fg-color--dark: #003c7a;
+
+  /*
+    Override the link/selection color (what you want to change).
+    This uses the dark color for better contrast and visibility.
+  */
+  --md-default-fg-color--focus: #003c7a; /* For keyboard focus/highlight */
+  --md-default-fg-color--hover: #003c7a;  /* For unvisited links on hover */
+
+  /* The main color for links in the body text (unvisited) */
+  --md-default-fg-color--link: #004A7F;
+
+  /* Optional: Override accent color (used for things like the progress bar or search highlight) */
+  --md-accent-fg-color: #ff9800;
+
+  /* Default text color for the main content */
+  --md-default-color-text: #004A7F;
+
+  /*font-size: 1.1rem;*/ /* This breaks the page, why?*/
+}
+
+/* Optional: Specifically target link color in the main content for visited links */
+.md-typeset a:not([data-md-button]):visited {
+    color: #003058; /* A slightly different shade for visited links */
+}
+
+/* Optional: Target the color of the active item in the sidebar/table of contents */
+.md-nav__link--active,
+.md-nav__item .md-nav__link[data-md-state="blur"],
+.md-meta__link  {
+    color: #003c7a;
+}
+
+
+.md-nav__link--active,
+.md-tabs__link--active,
+.md-typeset a {
+  color: var(--md-accent-fg-color) !important;
+}
+
+/* ---- Banner container ---- */
+.banner {
+    /* Responsive height instead of fixed 500px */
+    min-height: clamp(220px, 40vh, 560px);
+    width: 100%;
+    z-index: 1;
+    position: relative;
+  
+    /* Background image scales & centers */
+    background-image:
+      linear-gradient(rgba(255,255,255,0.1), rgba(255,255,255,0.1)),
+      url('../assets/imgs/banner.jpg');
+    background-size: cover;
+    background-position: 10% 30%;
+    background-repeat: no-repeat;
+    background-blend-mode: lighten; /* keeps your light overlay */
+  
+    /* Layout */
+    display: grid;
+    place-items: center; /* center content both axes */
+    text-align: center;
+    color: #FFF;
+    padding: 3rem 1rem; /* breathing room on small screens */
+  }
+  
+  /* Optional: inner wrapper to limit line length on wide screens */
+  .banner__content {
+    max-width: 72rem; /* ~1152px */
+    margin-inline: auto;
+  }
+  
+  /* ---- Typography: use clamp() for fluid type ---- */
+  .banner h1 {
+    font-size: clamp(.75rem, 6vw, 2.5rem); /* scales with viewport */
+    line-height: 1.05;
+    margin: 0.25em 0;
+    font-weight: 1800;
+    /* text-shadow: 1px 1px 2px white; */
+
+  }
+  
+  .banner p {
+    font-size: clamp(0.5rem, 3.2vw, 1.2rem);
+    line-height: 1.3;
+    margin: 0.25em 0 0;
+    font-weight: 600; /* was font-style: bold */
+    text-shadow: 1px 1px 2px white;
+    color: #222;
+    display: inline-block;
+    padding: 0.5em 1em;
+    border-radius: 0.7em;
+    background-color: rgba(255, 255, 255, 0.8);
+  }
+  
+  /* ---- Helpful tweaks at small widths ---- */
+  @media (max-width: 768px) {
+    .banner {
+      padding: 2rem 1rem;
+      background-position: 50% 40%; /* keep faces/subject higher if needed */
+    }
+    .banner h1,
+    .banner p {
+      text-shadow: 0 1px 1px rgba(128,128,128,0.7); /* soften on small screens */
+    }
+  }
+  
+  /* ---- Extremely small phones ---- */
+  @media (max-width: 380px) {
+    .banner {
+      min-height: 200px;
+      padding: 1.25rem 0.75rem;
+    }
+  }
+  
+  /* (Optional) if you actually want sticky behavior: */
+  /*
+  .banner {
+    position: sticky;
+    top: 0;
+  }
+  */
+  
+
+.md-header {
+    top: 0px;          /* This setting prevents the Material header from imposing into the space of the banner! */
+}
+
+/* Bold all main navigation items */
+.md-tabs__link {
+    font-weight: bold;
+    font-size: 16px;
+    color: #003c7a;
+}
+
+/* Optional: To bold only the top-level items */
+.md-tabs__item > .md-tabs__link {
+    font-weight: bold;
+}
+
+/* Optional: To bold the current active item */
+.md-tabs__link--active {
+    font-weight: bold;
+    color: #012446;
+}
+
+.md-tabs__item--active {
+  font-weight: bold;
+    color: #012446;
+}
+
+.md-header__title {
+  display: none !important;
+}
+
+.md-nav__link--active{
+  font-weight: bold;
+    color: #012446;
+}
+
+/* .md-header__button.md-logo {
+  margin-top: 0;
+  margin-bottom: 0;
+  padding-top: 0;
+  padding-bottom: 0;
+} */
+
+.md-header__button.md-logo img,
+.md-header__button.md-logo svg {
+  display: block;
+  width: 30%;
+  height: auto;
+}
+
+.md-tabs .md-grid {
+  display: flex;
+  justify-content: flex-end;
+}
+
+.nt-timeline-title {
+    font-size: 20px;
+}
+
+
+/* Layout container */
+.landing-grid {
+  display: grid;
+  grid-template-columns: 3fr 1fr 2fr; /* ≈ 60% | 10% | 30% */
+  gap: 1.5rem;
+  align-items: start;
+}
+
+/* Optional: keep the aside visible while scrolling on large screens */
+@media (min-width: 1100px) {
+  .landing-aside {
+    position: sticky;
+    top: calc(var(--md-header-height, 64px) + 1rem);
+  }
+}
+
+/* Medium screens: two columns (main | aside) */
+@media (max-width: 1099.98px) and (min-width: 700px) {
+  .landing-grid {
+    grid-template-columns: 2fr 1fr; /* spacer drops */
+    grid-auto-flow: row;
+  }
+  .landing-spacer { display: none; }
+}
+
+/* Small screens: single column stack */
+@media (max-width: 699.98px) {
+  .landing-grid {
+    grid-template-columns: 1fr;
+  }
+  .landing-spacer { display: none; }
+  .landing-aside { order: 2; } /* put dates after the text; remove if you want it first */
+}
+
+/* Minor polish */
+.landing-main p { margin: 0 0 0.9rem; }
+.landing-aside h4 { margin-top: 0; }
+
+
+/* Aplica a los títulos de los eventos (el texto principal) */
+.timeline .timeline-item-title {
+    font-size: 1.1em; /* Ajusta este valor (e.g., 1.2em, 16px, smaller) */
+}
+
+/* Aplica a los subtítulos de los eventos (la fecha/hora) */
+.timeline .timeline-item-subtitle {
+    font-size: 0.9em; /* Ajusta este valor */
+}
+
+/* Aplica al contenido/descripción debajo del título */
+.timeline .timeline-item-content {
+    font-size: 1em; /* Ajusta este valor */
+}
+
+/* Opcional: Si quieres cambiar el tamaño del icono */
+.timeline .timeline-icon {
+    font-size: 1.2em; /* Ajusta este valor */
+}
+
+.md-typeset h1 {
+    color: var(--md-default-fg-color--light);
+    font-size: 1.5em;
+    line-height: 1.1;
+    margin: 0 0 1.25em
+}
+
+.md-typeset h1,.md-typeset h2 {
+    font-weight: 300;
+    letter-spacing: -.01em
+}
+
+.md-typeset h2 {
+    font-size: 1.1em;
+    line-height: 1.4;
+    margin: 1.6em 0 .64em
+}
+
+.md-typeset h3 {
+    font-size: 1.25em;
+    font-weight: 400;
+    letter-spacing: -.01em;
+    line-height: 1.5;
+    margin: 1.6em 0 .8em
+}
+
+.md-typeset h2+h3 {
+    margin-top: .8em
+}
+
+.md-typeset h4 {
+    font-weight: 700;
+    letter-spacing: -.01em;
+    margin: 1em 0
+}
+
+.md-typeset h5,.md-typeset h6 {
+    color: var(--md-default-fg-color--light);
+    font-size: .8em;
+    font-weight: 700;
+    letter-spacing: -.01em;
+    margin: 1.25em 0
+}
+
+.md-typeset h5 {
+    text-transform: uppercase
+}
+
+.md-typeset h5 code {
+    text-transform: none
+}
+
+.md-typeset{
+  font-size: 0.75rem;
+}
+
+/* docs/extra.css */
+
+/* 1. Contenedor de la Cuadrícula (Grid Container) */
+.grid-container {
+    display: grid;
+    /* Define 3 columnas de igual ancho */
+    grid-template-columns: repeat(4, 1fr);
+    gap: 30px; /* Espacio entre las columnas */
+    margin: 30px 0;
+}
+
+/* 2. Estilo de cada Tarjeta de Miembro */
+.team-member {
+    text-align: center;
+    /* Ajustes visuales para la tarjeta */
+}
+
+/* 3. Estilo para la Imagen Circular */
+.team-member img.circle {
+    /* Define un tamaño fijo y asegura que sea cuadrada */
+    width: 150px;
+    height: 150px;
+    object-fit: cover; /* Recorta la imagen para que quepa */
+    border-radius: 50%; /* ¡Esto la hace circular! */
+    margin: 0 auto 10px auto;
+    display: block;
+}
+
+/* 4. Adaptación a móviles (Responsive Design) */
+@media (max-width: 900px) {
+    /* En pantallas más pequeñas, cambia a 1 columna */
+    .grid-container {
+        grid-template-columns: 1fr;
+    }
+}
+
+/* Force 4 columns on desktops */
+@media screen and (min-width: 76.25em) {
+    .grid.cards {
+        grid-template-columns: repeat(4, 1fr) !important;
+    }
+}
+
+/* Force 2 columns on smaller screens/tablets */
+@media screen and (min-width: 45em) and (max-width: 76.24em) {
+    .grid.cards {
+        grid-template-columns: repeat(2, 1fr) !important;
+    }
+}
