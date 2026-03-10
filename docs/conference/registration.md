@@ -18,11 +18,11 @@ TBA
 
 | Registration Category | Advance registration (until September 15th, 2026) | Late / On site |
 | :--- | :--- | :--- |
-| **IEEE Member** | 600 € | 700 € |
-| **Non IEEE Member** | 720 € | 840 € |
-| **Student, IEEE Member** | 420 € | 490 € |
-| **Student, non IEEE Member** | 505 € | 590 € |
-| **IEEE Life Member** | 330 € | 385 € |
+| **IEEE Member** | 650 € | 750 € |
+| **Non IEEE Member** | 780 € | 900 € |
+| **Student, IEEE Member** | 455 € | 525 € |
+| **Student, non IEEE Member** | 550 € | 630 € |
+| **IEEE Life Member** | 360 € | 415 € |
 
 Members of the Brazilian Computer Society may pay the same fee as the corresponding IEEE membership.
 
