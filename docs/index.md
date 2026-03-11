@@ -41,13 +41,13 @@ The city is full of great monuments, like the royal palace, the Plaza Mayor or t
         "content": "",
         "icon": ":material-text-box:",
         "key": "cyan",
-        "sub_title": "July 1, 2026"
+        "sub_title": "May 15, 2026"
     },
     {
         "title": "Paper submission",
         "content": "",
         "icon": ":material-file-document-outline:",
-        "sub_title": "July 9, 2026"
+        "sub_title": "May 22, 2026"
     },
     {
         "title": "Conference",

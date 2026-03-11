@@ -16,7 +16,7 @@ hide:
 * Arthur Lorenzon (Federal University of Rio Grande do Sul, Brazil)
 
 ## TRACK 3:	Distributed Systems, Networking and Storage	
-* Laurent LEFEVRE	(ENS Lyon, France)
+* Laurent LEFEVRE	(Inria, France)
 * Jean Luca Bez	(University of Berkeley/Lawrence Livermore, USA)
 
 ## TRACK 4:	Parallel Applications and Algorithms	
