@@ -10,4 +10,5 @@
 
 ## Call for Workshop Proposals
 
-TBA
+* **Deadline for Workshop Proposals**: <del>April 1st, 2026</del> April 10th, 2026 (AoE)
+* **Notification of acceptance**: April 15th, 2026
