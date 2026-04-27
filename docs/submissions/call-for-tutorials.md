@@ -27,4 +27,4 @@ Tutorials proposals must be submitted in PDF format and must include:
 
 Submission must be done using EasyChair:
 
-[Submit Tutorial proposal :fontawesome-solid-paper-plane:](https://easychair.org/my2/conference?conf=sbacpad2026){ .md-button }
+[Submit Tutorial proposal :fontawesome-solid-paper-plane:](https://easychair.org/conferences/?conf=sbacpad2026){ .md-button }

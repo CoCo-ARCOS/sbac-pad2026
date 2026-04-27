@@ -72,7 +72,7 @@ For the authors’ own unpublished work use anonymous citations.
 
 Submission must be done using EasyChair: 
 
-[Submit Paper :fontawesome-solid-paper-plane:](https://easychair.org/my2/conference?conf=sbacpad2026){ .md-button }
+[Submit Paper :fontawesome-solid-paper-plane:](https://easychair.org/conferences/?conf=sbacpad2026){ .md-button }
 
 !!! Important
     Selected papers will be invited to a special issue in a high-impact journal.
