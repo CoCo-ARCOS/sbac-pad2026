@@ -45,6 +45,7 @@ nav:
       - Program Committee: committees/program-committee.md
   - Conference:
       - Keynotes: conference/keynotes.md
+      - Workshops & Tutorials: conference/workshops-tutorials.md
       - Registration: conference/registration.md
       - Sponsors: conference/sponsors.md
       - Program: conference/program.md
@@ -69,6 +70,7 @@ markdown_extensions:
   - pymdownx.details
   - pymdownx.superfences
   - md_in_html
+  
   
 extra_css:
   - stylesheets/neoteroi-mkdocs.css

@@ -13,6 +13,16 @@ hide:
 
 <h2> October 14-16, 2026 </h2> -->
 
+<div class="grid" markdown>
+
+[Call for Papers :fontawesome-solid-paper-plane:](submissions/call-for-papers.md){ .md-button .md-button--primary }
+
+[Workshops & Tutorials :fontawesome-solid-paper-plane:](conference/workshops-tutorials.md){ .md-button }
+
+[Keynotes :fontawesome-solid-paper-plane:](conference/keynotes.md){ .md-button }
+
+</div>
+
 /// html | div[style='flex: 3 1 60%; padding: 0 10px; min-width: 300px; float: left;width: 60%;']
 The International Symposium on Computer Architecture and High Performance Computing (SBAC-PAD) is an annual international conference series, the first of which was held in 1987. Each conference has traditionally presented new developments in high performance applications, as well as the latest trends in computer architecture and parallel and distributed technologies. The conference has strong international participation, with submissions typically coming from over a dozen countries. The selection process is competitive, with acceptance rate below 30% in recent years. In this edition, the symposium will be held at Madrid, Spain by the University Carlos III of Madrid.
 

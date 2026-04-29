@@ -38,7 +38,7 @@
 
 .md-nav__link--active,
 .md-tabs__link--active,
-.md-typeset a {
+.md-typeset a:not(.md-button) {
   color: var(--md-accent-fg-color) !important;
 }
 
