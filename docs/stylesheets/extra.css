@@ -35,6 +35,25 @@
     color: #003c7a;
 }
 
+/* Fix for buttons in the main content */
+.md-typeset .md-button {
+    color: #004A7F !important; /* Use your dark blue */
+    border-color: #004A7F;
+    opacity: 1;
+    visibility: visible;
+}
+
+/* Ensure icons inside buttons are also visible */
+.md-typeset .md-button .twemoji, 
+.md-typeset .md-button svg {
+    fill: #004A7F;
+}
+
+/* Optional: Hover state for better UX */
+.md-typeset .md-button:hover {
+    background-color: #004A7F;
+    color: #ffffff !important;
+}
 
 .md-nav__link--active,
 .md-tabs__link--active,
