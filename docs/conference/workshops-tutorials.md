@@ -27,7 +27,7 @@ Since the advent of the multi-core concept, significant advances have been made 
 
 # Tutorials
 
-<h3 style="color: #424248"> <a href="http://www.hemisphere-education.com/confs/wamca2026/"> Parallel Scalability Suite: Profiling and Visualizing the Scalability of Parallel Applications  </a> </h3> 
+<h3 style="color: #424248"> <a href="https://gitlab.com/lappsufrn/pascal-suite-tutorial/-/tree/0febd662cda096076db050712c0b99b03928a248/"> Parallel Scalability Suite: Profiling and Visualizing the Scalability of Parallel Applications  </a> </h3> 
 
 *Samuel Xavier-de-Souza, Elisa Gabriela Lucena and Pedro Rici*
 
