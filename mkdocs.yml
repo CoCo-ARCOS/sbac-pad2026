@@ -18,6 +18,7 @@ theme:
     - navigation.instant
     - navigation.indexes
 
+
   custom_dir: overrides
 
 plugins:
@@ -70,6 +71,11 @@ markdown_extensions:
   - pymdownx.details
   - pymdownx.superfences
   - md_in_html
+  - pymdownx.critic
+  - pymdownx.caret
+  - pymdownx.keys
+  - pymdownx.mark
+  - pymdownx.tilde
   
   
 extra_css:

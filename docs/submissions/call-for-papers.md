@@ -11,8 +11,7 @@ SBAC-PAD is an annual international conference series, which presents the latest
 
 ## Important dates
 
-* **Abstract submission deadline:** May 15th, 2026 (AoE)
-* **Paper submission deadline:** May 22nd, 2026 (AoE)
+* **Paper submission deadline:**  {--May 22nd, 2026--} {++May 29th, 2026++}  (AoE)
 * **Rebuttal period:** July 22nd - 27th, 2026
 * **Author notification:** August 3rd, 2026
 * **Camera-ready submission:** September 5th, 2026
