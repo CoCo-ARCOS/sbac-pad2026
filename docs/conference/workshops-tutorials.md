@@ -15,6 +15,9 @@ The Workshop on Cloud Computing (WCC) is an international forum for discussing r
 
 *Sai Narasimhamurthy, Pélagie Alves and Jean-Robert Bacou*
 
+This workshop presents the software ecosystem developed within the EUPEX project, a European initiative focused on building a modular supercomputing platform based on European technologies, including processors from the European Processor Initiative (EPI). The EUPEX software suite is designed to support both application developers and system operators, enabling efficient execution of scientific and industrial workloads on systems based on Modular Supercomputing Architecture (MSA). 
+
+
 
 <h3 style="color: #010E77"> <a href="http://www.hemisphere-education.com/confs/wamca2026/">  17th Workshop on Applications for Multicore Architectures  </a> </h3>
 
@@ -39,3 +42,7 @@ PaScal Suite integrates two tools, the PaScal Analyzer and the PaScal Viewer. It
 <h3 style="color: #424248"> Unlocking malleability in HPC applications </h3>
 
 *Alberto Cascajo and Javier Fernandez Muñoz*
+
+
+ This demonstration showcases the concept of malleability in High Performance Computing (HPC) using FlexMPI. Malleability refers to the ability of a parallel application to dynamically adapt the number of processes it uses during execution, allowing it to respond to changes in resource availability in real time.  In this demo, we illustrate how FlexMPI enables an application to expand or shrink its computational resources without stopping execution. This capability improves overall system efficiency by better utilizing available resources and reducing idle time in shared environments such as HPC clusters. 
+
