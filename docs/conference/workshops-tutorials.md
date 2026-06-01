@@ -11,7 +11,7 @@ hide:
 
 The Workshop on Cloud Computing (WCC) is an international forum for discussing recent developments and hot topics related to the cloud computing continuum. The workshop aims to attract researchers, industry professionals, and students from the fields of artificial intelligence, big data, systems architecture, service-oriented architecture, virtualization, security and privacy, and, in particular, high performance computing, to share cutting-edge advances in the theory and practice of exploiting cloud computing platforms. The workshop aims to foster the exchange of ideas, highlight emerging research directions, and help shape the future of cloud computing.
 
-<h3 style="color: #010E77"> A European Software Suite for Modular HPC systems from the EUPEX project </h3>
+<h3 style="color: #010E77"> <a href="https://eupex.eu/events/eupex-workshop-at-sbac-pad/"> A European Software Suite for Modular HPC systems from the EUPEX project </a> </h3>
 
 *Sai Narasimhamurthy, Pélagie Alves and Jean-Robert Bacou*
 
