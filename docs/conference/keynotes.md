@@ -108,7 +108,10 @@ for several research agencies and public administrations.
 
 # Tasks Based Hybrid Workflows for Emergent Technologies
 
-TBD
+The Barcelona Supercomputing Center hosts a twin installation based on transmon qubits, superconducting technology funded by Spain. Another annealing system co-funded by EuroHPC JU and Spain is also expected. Significant research and development is done by BSC researchers from the Quantic groups in topics related to quantum computing, which are closer to its physics nature. Complementary to this research, and in collaboration with our colleagues, the Workflows and Distributed Computing group is doing research activities related to software aspects related to the integration of HPC + Quantum Computing (QC). 
+
+The talk will describe the steps taken towards integration of HPC and QC at the BSC. We will describe how a traditional workflow environment is being extended to support hybrid HPC+quantum computing workflows.The current solution enables the hybrid execution of workflows in CPUS, GPUs and Quantum systems (onsite and through cloud access). The talk will present these topics and our plans for the near future. 
+
 
 ![Image title](https://coco-arcos.github.io/sbac-pad2026/assets/imgs/keynotes/badia.jpg){ align=left width="35%" }
 
