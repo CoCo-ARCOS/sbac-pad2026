@@ -121,9 +121,10 @@ She is a member of the EuroHPC JU RIAG and a member of the HiPEAC Network of Exc
 
 ---
 
-# Estela Suarez TBD
+# Strategies for energy efficiency in HPC  
 
-TBD
+Energy efficiency needs to be addressed in HPC at all layers of the stack, from application development up to hardware deployment and system operation. While significant gains have been achieved through advances in hardware architecture, improving how existing systems are operated remains an equally important opportunity. This presentation offers a broad overview of established approaches to improving energy efficiency, including hardware innovations, system software techniques, and application settings. It will then focus on operational practices aiming at obtaining the maximum throughput out of existing infrastructures, at the minimum possible energy cost. In particular, it discusses how runtime decisions based on system state and workload characteristics can be leveraged to reduce energy waste while maintaining performance. The presentation draws on work carried out in the SEANERGYS project, which develops a software suite combining monitoring, data analytics, and scheduling to achieve better energy-aware system operations.
+
 
 ![Image title](https://coco-arcos.github.io/sbac-pad2026/assets/imgs/keynotes/estela.jpg){ align=left width="35%" } 
 
