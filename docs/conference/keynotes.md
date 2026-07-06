@@ -48,7 +48,7 @@ hide:
   <h4>Jülich Supercomputing Centre and University of Bonn</h4>
   
   <a href="#estela-suarez-tbd">
-    <h3 style="color: #010E77">Title TBD</h3>
+    <h3 style="color: #010E77"> Strategies for energy efficiency in HPC  </h3>
   </a>
   
 </div>
