@@ -13,9 +13,12 @@ hide:
 
 <h2> October 14-16, 2026 </h2> -->
 
+
 <div class="grid" markdown>
 
-[Call for Papers :fontawesome-solid-paper-plane:](submissions/call-for-papers.md){ .md-button .md-button--primary }
+[Registration :fontawesome-solid-pen-to-square:](registration.md){ .md-button .md-button--primary style="display: block; margin: 0 auto; width: fit-content;" }
+
+<!-- [Call for Papers :fontawesome-solid-paper-plane:](submissions/call-for-papers.md){ .md-button .md-button--primary } -->
 
 [Workshops & Tutorials :fontawesome-solid-paper-plane:](conference/workshops-tutorials.md){ .md-button }
 

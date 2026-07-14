@@ -33,4 +33,4 @@ Author registrations should be identified by answering yes to the question “Is
 Authors will be charged a total of 100 € for extra pages over the limit of 10 pages for main conference papers.
 
 ## Certificate of attendance
-Individual certificates of attendance will be sent during the conference, directly to the e-mail address used for registration. If you need any additional certificate (certificate of presentation for example), please contact Javier García - <fjblas@inf.uc3m.es>.
+Individual certificates of attendance will be sent during the conference, directly to the e-mail address used for registration. If you need any additional certificate (certificate of presentation for example), please contact <info@adcommcentury.com>.

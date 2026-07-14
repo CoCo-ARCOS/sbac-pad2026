@@ -36,6 +36,7 @@ nav:
   - Home: index.md
   - News: 
     - blog/index.md
+  - Registration: registration.md
   - Submissions:
       - Call for Papers: submissions/call-for-papers.md
       - Call for Workshops Proposals: submissions/call-for-workshops-proposals.md
@@ -47,7 +48,7 @@ nav:
   - Conference:
       - Keynotes: conference/keynotes.md
       - Workshops & Tutorials: conference/workshops-tutorials.md
-      - Registration: conference/registration.md
+      
       - Sponsors: conference/sponsors.md
       - Program: conference/program.md
       - Co-Located Events: conference/co-located.md
