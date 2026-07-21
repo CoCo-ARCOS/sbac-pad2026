@@ -47,19 +47,37 @@ The city is full of great monuments, like the royal palace, the Plaza Mayor or t
         "title": "Workshop  Submissions",
         "content": "",
         "icon": ":material-flask-outline:",
-        "sub_title": "April 10, 2026"
+        "sub_title": "April 10th, 2026"
     },
     {
         "title": "Tutorials Submissions",
         "content": "",
         "icon": ":material-flask-outline:",
-        "sub_title": "April 1, 2026"
+        "sub_title": "April 1st, 2026"
     },
     {
         "title": "Paper submission",
         "content": "",
         "icon": ":material-file-document-outline:",
         "sub_title": "June 7th, 2026"
+    },
+    {
+        "title": "Rebuttal period",
+        "content": "",
+        "icon": ":material-file-document-outline:",
+        "sub_title": "July 22nd - 27th, 2026"
+    },
+    {
+        "title": "Author notification",
+        "content": "",
+        "icon": ":material-file-document-outline:",
+        "sub_title": "August 3rd, 2026"
+    },
+    {
+        "title": "Camera-ready submission",
+        "content": "",
+        "icon": ":material-file-document-outline:",
+        "sub_title": "September 5th, 2026"
     },
     {
         "title": "Conference",
@@ -80,15 +98,25 @@ The city is full of great monuments, like the royal palace, the Plaza Mayor or t
 <source src="assets/videos/Madrid.mp4" type="video/mp4">
 </video>
 
+## Sponsored by
+
+<div class="grid cards" style="text-align: center;" markdown>
+
+- <a href="https://www.hpe.com/es/es/home.html" target="_blank" rel="HPE+NVIDIA">![Logo HPE](assets/imgs/hpe_nvidia.png){width=400px }</a>
+
+- <a href="https://www.uc3m.es/ss/Satellite/UC3MInstitucional/es/Detalle/Organismo_C/1371206582047/1371206581851/Instituto_de_Desarrollo_Tecnologico_y_Promocion_de_la_Innovacion__Pedro_Juan_de_Lastanosa_" target="_blank" rel="Instituto de Desarrollo Tecnológico y Promoción de la Innovación Pedro Juan de Lastanosa">![Logo del Instituto de Desarrollo Tecnológico y Promoción de la Innovación "Pedro Juan de Lastanosa"](assets/imgs/institutodesarrollo.png){width=400px }</a>
+
+- <a href="https://www.uc3m.es/departamento-informatica/inicio" target="_blank" rel="Departamento de Informática de la UC3M">![Logo del Departamento de Informática de la UC3M"](assets/imgs/dept-informatica.png){width=400px }</a>
+ 
+
+</div>
+
 ## Organized by
 
 <div class="grid cards" style="text-align: center;" markdown>
 
 - <a href="https://www.uc3m.es/Home" target="_blank" rel="University Carlos III of Madrid">![Logo de la UC3m](assets/imgs/uc3m.jpg){width=400px }</a>
 
-- <a href="https://www.uc3m.es/ss/Satellite/UC3MInstitucional/es/Detalle/Organismo_C/1371206582047/1371206581851/Instituto_de_Desarrollo_Tecnologico_y_Promocion_de_la_Innovacion__Pedro_Juan_de_Lastanosa_" target="_blank" rel="Instituto de Desarrollo Tecnológico y Promoción de la Innovación Pedro Juan de Lastanosa">![Logo del Instituto de Desarrollo Tecnológico y Promoción de la Innovación "Pedro Juan de Lastanosa"](assets/imgs/institutodesarrollo.png){width=400px }</a>
-
-- <a href="https://www.uc3m.es/departamento-informatica/inicio" target="_blank" rel="Instituto de Desarrollo Tecnológico y Promoción de la Innovación Pedro Juan de Lastanosa">![Logo del Departamento de Informática de la UC3M"](assets/imgs/dept-informatica.png){width=400px }</a>
  
 - <a href="https://www.uc3m.es/research-groups/arcos" target="_blank" rel="ARCOS research group">![Logo del grupo ARCOS](assets/imgs/logo-arcos.png){ width=400px}</a>
 
