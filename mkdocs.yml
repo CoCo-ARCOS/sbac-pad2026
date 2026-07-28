@@ -37,6 +37,7 @@ nav:
   - News: 
     - blog/index.md
   - Registration: registration.md
+  - Program: conference/program.md
   - Submissions:
       - Call for Papers: submissions/call-for-papers.md
       - Call for Workshops Proposals: submissions/call-for-workshops-proposals.md

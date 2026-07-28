@@ -62,7 +62,7 @@ hide:
   <h4>University of Southern California</h4>
   
   <a href="#viktor-k-prasanna-tbd">
-    <h3 style="color: #010E77">Title TBD</h3>
+    <h3 style="color: #010E77">Towards Real-time AI at the Edge</h3>
   </a>
   
 </div>
@@ -139,9 +139,10 @@ Energy efficiency needs to be addressed in HPC at all layers of the stack, from 
 ---
 
 
-# Viktor K. Prasanna TBD
+# Towards Real-time AI at the Edge
 
-TBD
+Edge AI applications including Agentic AI systems require real-time performance. In addition, in many applications, energy efficiency becomes a critical metric. To meet these requirements, recently many edge platforms have been proposed including GPUs, FPGAs, NPUs and heterogeneous architectures such as AI PCs. These devices are being used along with multi-core and novel memory technologies to realize advanced platforms to accelerate edge inference and support diverse applications requiring low latency. We will review emerging technologies for edge inference and advances in reconfigurable computing over the past three decades leading up to current innovations in FPGA accelerators for AI. We will illustrate parallel architectures and algorithms for commercial, defense and space applications. Using our algorithm-architecture co-design methodology to realize high performance accelerators for these applications, we demonstrate the role of modeling and algorithmic optimizations to develop highly efficient Intellectual Property (IP) cores for FPGAs and realize end to end application acceleration. We illustrate our methodology by developing high performance designs for graph machine learning, long context LLM inference, Mixture of Agents inference and SAR ATR. We conclude by identifying opportunities and challenges in exploiting emerging heterogeneous architectures composed of multi-core processors, FPGAs, integrated GPUs, NPUs and accelerators.
+
 
 ![Image title](https://coco-arcos.github.io/sbac-pad2026/assets/imgs/keynotes/viktor.png){ align=left width="35%" } 
 
