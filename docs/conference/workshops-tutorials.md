@@ -39,7 +39,7 @@ Since the advent of the multi-core concept, significant advances have been made 
 PaScal Suite integrates two tools, the PaScal Analyzer and the PaScal Viewer. It simplifies the execution, measurement, and comparison of several executions of a parallel program, allowing the analysis of scalability trends in configuration environments with different amounts of processing elements and different workloads with visual elements that help the user to understand the program’s behavior and recognize scalability bottlenecks that may require in-depth optimization analysis. The toolset can be used to help the development of parallel programs that run on a single shared-memory computational node. Future versions will support distributed programs running on many nodes.
 
 
-<h3 style="color: #424248"> Unlocking malleability in HPC applications </h3>
+<h3 style="color: #424248"> <a href="https://acascajo.github.io/sbac-pad-malleability-tutorial/"> Unlocking malleability in HPC applications   </a> </h3>
 
 *Alberto Cascajo and Javier Fernandez Muñoz*
 
