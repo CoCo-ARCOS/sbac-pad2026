@@ -34,15 +34,16 @@ watch:
 
 nav:
   - Home: index.md
-  - News: 
-    - blog/index.md
+  #- News: 
+  #  - blog/index.md
   - Registration: registration.md
   - Program: conference/program.md
-  - Submissions:
-      - Call for Papers: submissions/call-for-papers.md
-      - Call for Workshops Proposals: submissions/call-for-workshops-proposals.md
-      - Call for Tutorials Proposals: submissions/call-for-tutorials.md
-      - Important Dates: submissions/important-dates.md
+  - Workshops: conference/workshops-tutorials.md  
+  #- Submissions:
+  #    - Call for Papers: submissions/call-for-papers.md
+  #    - Call for Workshops Proposals: submissions/call-for-workshops-proposals.md
+  #    - Call for Tutorials Proposals: submissions/call-for-tutorials.md
+  #    - Important Dates: submissions/important-dates.md
   - Committes:
       - Organizing Committee: committees/organizing-committee.md
       - Program Committee: committees/program-committee.md
