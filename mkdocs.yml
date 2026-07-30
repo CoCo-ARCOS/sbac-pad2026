@@ -34,8 +34,8 @@ watch:
 
 nav:
   - Home: index.md
-  #- News: 
-  #  - blog/index.md
+  - News: 
+    - blog/index.md
   - Registration: registration.md
   - Program: conference/program.md
   - Workshops: conference/workshops-tutorials.md  

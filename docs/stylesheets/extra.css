@@ -20,7 +20,10 @@
   /* Default text color for the main content */
   --md-default-color-text: #004A7F;
 
-  /*font-size: 1.1rem;*/ /* This breaks the page, why?*/
+  /* 
+     font-size: 1.1rem; 
+     Why this breaks the page: MkDocs Material uses `rem` units for margins, padding, and layout sizing across the entire site based on the browser's default root font size. Changing the root font size scales *everything* up unpredictably, breaking the grid layouts.
+  */
 }
 
 /* Optional: Specifically target link color in the main content for visited links */
@@ -143,7 +146,6 @@
   }
   */
   
-
 .md-header {
     top: 0px;          /* This setting prevents the Material header from imposing into the space of the banner! */
 }
@@ -192,11 +194,6 @@
   display: block;
   width: 30%;
   height: auto;
-}
-
-.md-tabs .md-grid {
-  display: flex;
-  justify-content: flex-end;
 }
 
 .nt-timeline-title {
@@ -367,4 +364,54 @@
     .grid.cards {
         grid-template-columns: repeat(2, 1fr) !important;
     }
+}
+
+/* =========================================
+   TABS FIX: Claim Middle Space & Single Line
+   ========================================= */
+
+/* 1. Expand the overall header grid to use more monitor width */
+.md-header__inner {
+    max-width: 98% !important; 
+}
+
+/* 2. Tell the tabs container to grow into the empty space left by the hidden title */
+.md-tabs {
+    flex-grow: 1; 
+    margin-left: 2rem !important; /* Adjust this to move the menu closer/further from the logo */
+}
+
+.md-tabs .md-grid {
+    width: 100%;
+    max-width: 100%;
+    display: flex;
+}
+
+/* 3. Strictly enforce a single line and pull items to the left */
+.md-tabs__list {
+    display: flex;
+    flex-wrap: nowrap !important; /* Absolutely prevents items from dropping to a second line */
+    justify-content: flex-start; /* Pulls the menu leftward into the newly claimed middle space */
+    width: 100%;
+    margin-left: 0 !important;
+}
+
+/* 4. Manage the spacing of the items themselves */
+.md-tabs__item {
+    flex-shrink: 0; 
+    margin: 0 !important; /* Removes any default spacing outside the item */
+}
+
+.md-tabs__link {
+    white-space: nowrap !important; 
+    padding: 0 0.05rem !important; /* <-- CHANGE THIS VALUE */
+}
+
+/* 5. Allow horizontal scrolling on smaller screens (like tablets) */
+.md-tabs__scrollwrap {
+    overflow-x: auto; 
+    scrollbar-width: none; 
+}
+.md-tabs__scrollwrap::-webkit-scrollbar {
+    display: none; 
 }
