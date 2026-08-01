@@ -43,3 +43,4 @@ hide:
 * David Exposito-Singh (University Carlos III of Madrid, Spain)
 
 
+[Full program committee member for SBAc-PAD 2026.](../assets/PC-members-sbac.pdf)
