@@ -8,11 +8,10 @@ hide:
 
 ## Registration link
 
-<!-- The registration website is now open!
+The registration website is now open!
 
-[Register Now](https://easychair.org/my2/conference?conf=sbacpad2026){ .md-button } -->
+[Register Now](https://tool.adcommcentury.com/register/17f1ddf4-c80d-4346-a18b-8cbf38f70cc4){ .md-button } 
 
-TBA
 
 ## Registration fees
 
