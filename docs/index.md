@@ -100,6 +100,8 @@ The city is full of great monuments, like the royal palace, the Plaza Mayor or t
 
 ## Sponsored by
 
+### Gold Sponsor
+
 <div class="grid cards" style="text-align: center;" markdown>
 
 - <a href="https://www.hpe.com/es/es/home.html" target="_blank" rel="HPE+NVIDIA">![Logo HPE](assets/imgs/hpe_nvidia.png){width=400px }</a>
@@ -108,6 +110,15 @@ The city is full of great monuments, like the royal palace, the Plaza Mayor or t
 
 - <a href="https://www.uc3m.es/departamento-informatica/inicio" target="_blank" rel="Departamento de Informática de la UC3M">![Logo del Departamento de Informática de la UC3M"](assets/imgs/dept-informatica.png){width=400px }</a>
  
+
+</div>
+
+### Silver Sponsor
+
+
+<div class="grid cards" style="text-align: center;" markdown>
+
+- <a href="" target="_blank" rel="SHERM/Supermicro">![Logo HPE](assets/imgs/1.png){width=400px }</a>
 
 </div>
 
