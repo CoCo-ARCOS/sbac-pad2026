@@ -106,7 +106,7 @@ The city is full of great monuments, like the royal palace, the Plaza Mayor or t
 - <a href="https://www.hpe.com/es/es/home.html" target="_blank" rel="HPE+NVIDIA">![Logo HPE](assets/imgs/hpe_nvidia.png){width=400px }</a>
 
 
-- <a href="" target="_blank" rel="SHERM/Supermicro">![Logo HPE](assets/imgs/1.png){width=400px }</a>
+- <a href="https://www.scherm.com.br" target="_blank" rel="SHERM/Supermicro">![Logo SCHERM](assets/imgs/1.png){width=400px }</a>
 
 - <a href="https://www.uc3m.es/ss/Satellite/UC3MInstitucional/es/Detalle/Organismo_C/1371206582047/1371206581851/Instituto_de_Desarrollo_Tecnologico_y_Promocion_de_la_Innovacion__Pedro_Juan_de_Lastanosa_" target="_blank" rel="Instituto de Desarrollo Tecnológico y Promoción de la Innovación Pedro Juan de Lastanosa">![Logo del Instituto de Desarrollo Tecnológico y Promoción de la Innovación "Pedro Juan de Lastanosa"](assets/imgs/institutodesarrollo.png){width=400px }</a>
 
