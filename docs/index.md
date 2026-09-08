@@ -122,7 +122,7 @@ The city is full of great monuments, like the royal palace, the Plaza Mayor or t
 - <a href="https://www.uc3m.es/Home" target="_blank" rel="University Carlos III of Madrid">![Logo de la UC3m](assets/imgs/uc3m.jpg){width=400px }</a>
 
  
-- <a href="www.arcos.inf.uc3m.es" target="_blank" rel="ARCOS research group">![Logo del grupo ARCOS](assets/imgs/logo-arcos.png){ width=400px}</a>
+- <a href="htpps://www.arcos.inf.uc3m.es" target="_blank" rel="ARCOS research group">![Logo del grupo ARCOS](assets/imgs/logo-arcos.png){ width=400px}</a>
 
 </div>
 
