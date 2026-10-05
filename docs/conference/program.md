@@ -10,16 +10,14 @@
 
 ### Welcome cocktail
 
-**Location**: U-Music
-**Address**: [C. de la Paz, 11, Centro, 28012](https://www.google.com/maps/place//data=!4m2!3m1!1s0xd4229aa810859db:0x84f70547186202eb?sa=X&ved=1t:8290&ictx=111) 
+**Location**: Hotel Hyat Gran Via
+**Address**: [CGran Vía, 31, Centro, 28013 Madrid](https://maps.app.goo.gl/WZvgG6ftTTtG84jw5) 
 
-UMusic Hotel Madrid represents the transformation of historical heritage into a pioneering concept of musical hospitality, bringing together the iconic Albéniz Theater and the former Hotel Madrid in a single space.
+El Jardín de Diana is an exclusive rooftop bar and restaurant located on the 10th floor of the Hyatt Centric Gran Vía Madrid. Perched high above the city's iconic avenue, this stylish urban oasis offers panoramic views of the Madrid skyline, featuring both an open-air garden terrace and a sophisticated indoor lounge.
 
-The Albéniz Theater, originally opened in 1945 as a landmark of Madrid's lyrical and theatrical scene, remained closed for years following threats of demolition. Declared a Property of Cultural Interest in 2016 thanks to civic and cultural mobilization, the venue was renovated through an investment of nearly 30 million euros driven by SOCIMI Silicius and operated by UMusic Hotels (a division of Universal Music Group), reopening its doors in late 2022.
+The venue takes its name from the goddess of the hunt, whose striking five-meter sculpture crowns the rooftop, aiming her bow across Gran Vía. Visitors can enjoy creative signature cocktails, a curated selection of Spanish tapas, and modern Mediterranean fusion cuisine, making it an ideal spot for sunset drinks, casual dining, or special events in the heart of the capital.
 
-The complex does not function as a simple accommodation with themed decor, but as a space where gastronomy, five-star lodging, and performing arts converge.
-
-![Hotel U-Music](../assets/imgs/socialevents/umusic-piano-bar-casa.jpg)
+![Hotel Hyat Gran Via](../assets/imgs/socialevents/el-jardin-de-diana.jpg)
 
 ### Banquet
 
