@@ -15,7 +15,27 @@ hide:
 
 <div style="display: flex; flex-direction: column; align-items: center; gap: 1rem;" markdown>
 
+<p style="font-size: 1.8rem; font-weight: 700; text-align: center; margin: 0;" markdown>See you at SBAC-PAD 2027 in [Belém, Pará, Brazil](https://maps.app.goo.gl/aL2qhzsYhsGKGcC86){ target="_blank" }! :flag_br:</p>
+
+<div class="belem-2027">
+  <div class="belem-map">
+    <iframe src="https://www.google.com/maps?q=Bel%C3%A9m%2C%20Par%C3%A1%2C%20Brasil&z=11&output=embed" loading="lazy" referrerpolicy="no-referrer-when-downgrade" title="Map of Belém, Pará, Brazil" allowfullscreen></iframe>
+  </div>
+  <div class="belem-slideshow" aria-label="Photos of Belém">
+    <figure class="active"><img class="off-glb" src="assets/imgs/belem/1.jpg" alt="Aerial view of Belém's historic center and Ver-o-Peso market"><figcaption>Historic center &amp; Ver-o-Peso · Photo: Rafaelbyphoto, CC BY 4.0</figcaption></figure>
+    <figure><img class="off-glb" src="assets/imgs/belem/2.jpg" alt="Theatro da Paz" loading="lazy"><figcaption>Theatro da Paz</figcaption></figure>
+    <figure><img class="off-glb" src="assets/imgs/belem/3.jpg" alt="Cranes at Estação das Docas" loading="lazy"><figcaption>Estação das Docas</figcaption></figure>
+    <figure><img class="off-glb" src="assets/imgs/belem/4.jpg" alt="Aerial view of Mangal das Garças park" loading="lazy"><figcaption>Mangal das Garças</figcaption></figure>
+    <figure><img class="off-glb" src="assets/imgs/belem/5.jpg" alt="Interior of the Basílica de Nossa Senhora de Nazaré" loading="lazy"><figcaption>Basílica de Nazaré</figcaption></figure>
+    <figure><img class="off-glb" src="assets/imgs/belem/6.jpg" alt="Forte do Presépio" loading="lazy"><figcaption>Forte do Presépio</figcaption></figure>
+    <button class="belem-prev" type="button" aria-label="Previous photo">&#10094;</button>
+    <button class="belem-next" type="button" aria-label="Next photo">&#10095;</button>
+  </div>
+</div>
+
 [Proceedings Available!](assets/SBAC_PAC_2026_Proceedings_final.pdf){ .md-button .md-button--primary }
+
+
 
 <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 1rem;" markdown>
 
